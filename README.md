@@ -4,6 +4,14 @@ TVBox官方的作者只是在Github开源项目，只要遵守协议，任何人
 
 # TvBox资源接口
 
+TvBox单仓
+
+https://ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
+
+TvBox多仓
+
+https://ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
+
 TvBox资源接口是TVBox的核心所在，简言之，它是一种特殊的文件，包含了网络上各大影视站的影视爬虫，TVBox通过接口文件可将资源加载至播放器中，如此让你一个播放器整合播放所有资源
 
 TVBox支持网络接口和本地文件，为了使用方便，通常大家是直接复制粘贴在线接口网址，操作方法，在设置中心粘贴接口地址
