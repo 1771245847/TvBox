@@ -1,0 +1,32 @@
+{
+  "残月影视": "1771245847",
+  "友情提醒": "接口完全免费，切勿付费购买 ",
+  "warningText": "残月影视 提醒您: 请勿用于商业用途，仅供学习交流 ",
+    "urls": [
+      {
+          "url": "https://githubusercontent.cachefly.net/1771245847/TvBox/master/tvbox.json",
+          "name": "残月影视",
+          "time": "1771245847"
+      },
+      {
+          "url": "https://xn--z7x900a.love/",
+          "name": "肥猫线路"
+      },
+      {
+          "url": "http://rihou.cc:88/荷城茶秀",
+          "name": "荷城茶秀"
+      },
+      {
+          "url": "https://raw.liucn.cc/box/m.json",
+          "name": "刘备线路"
+      },
+      {
+          "url": "http://miaotvs.cn/meow",
+          "name": "喵影线路"
+      },
+      {
+          "url": "http://8.210.232.168/xc.json",
+          "name": "星辰线路"
+      }
+  ]
+}
