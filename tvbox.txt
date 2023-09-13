@@ -4,12 +4,12 @@
   "warningText": "残月影视 提醒您: 请勿用于商业用途，仅供学习交流 ",
     "urls": [
       {
-          "url": "https://cdn.staticaly.com/gh/1771245847/TvBox/master/tvbox.json",
+          "url": "https://githubusercontent.cachefly.net/1771245847/TvBox/master/tvbox.json",
           "name": "残月影视",
           "time": "1771245847"
       },
       {
-          "url": "https://xn--z7x900a.love/",
+          "url": "https://xn--z7x900a.love",
           "name": "肥猫线路"
       },
       {
