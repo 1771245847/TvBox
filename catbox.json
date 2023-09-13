@@ -1,0 +1,270 @@
+{
+  "残月影视": "1771245847",
+  "友情提醒": "接口完全免费，切勿付费购买 ",
+  "warningText": "残月影视 提醒您: 请勿用于商业用途，仅供学习交流 ",
+    "sites": [
+        {
+            "key": "极速资源",
+            "name": "极速资源",
+            "type": 0,
+            "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/xml",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "淘片资源",
+            "name": "淘片资源",
+            "type": 0,
+            "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+           "key": "速播资源",
+            "name": "速播资源",
+            "type": 0,
+            "api": "https://subocaiji.com/api.php/provide/vod/from/subm3u8/at/xml",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+        
+         "key": "新浪资源",
+            "name": "新浪资源",
+            "type": 0,
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/at/xml/",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+         "key": "虎牙资源",
+            "name": "虎牙资源",
+            "type": 0,
+            "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": [
+            
+            ]
+        },
+        {
+            "key": "火狐资源",
+            "name": "火狐资源",
+            "type": 0,
+            "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/xml",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        }
+        ],
+  "lives": [{"group": "Tv Live", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWJ1c2VyY29udGVudC5jYWNoZWZseS5uZXQvMTc3MTI0NTg0Ny9UdkJveC9tYXN0ZXIvdHYudHh0"] } ] } ], 
+  "parses": [
+        {
+            "name": "解析接口①",
+            "url": "https://svip.bljiex.com/?url="
+        },
+        {
+            "name": "虾米解析",
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "BL解析",
+            "url": "https://vip.bljiex.com/?v="
+        },
+        {
+            "name": "夜慕解析",
+            "url": "https://www.yemu.xyz/?url="
+        },
+        {
+            "name": "小蔣解析",
+            "url": "https://jx.91o.cc/?url="
+        },
+        {
+            "name": "8090解析",
+            "url": "https://www.8090g.cn/?url="
+        }
+    ],
+    "flags": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "wasu"
+    ],
+    "ijk": [
+        {
+            "group": "軟解碼",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "max-buffer-size",
+                    "value": "5242880"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "group": "硬解碼",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "max-buffer-size",
+                    "value": "5242880"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                }
+            ]
+        }
+    ],
+    "wallpaper": "https://api.dujin.org/bing/1920.php"
+}
