@@ -1,14 +1,20 @@
 # TvBox
 
-TVBox是一个开源项目，只要遵守协议，任何人均可通过项目生成APK，即官方仓库开源版，也就是TVBox原版。目前开发者只专注于功能上的扩展和维护，它的功能也已经臻于完善
+https://github.com/CatVodTVOfficial/TVBoxOSC
+
+TVBox是一个开源项目，只要遵守协议，任何人均可通过项目生成APK，即官方仓库开源版，也就是TVBox原版, 目前开发者只专注于功能上的扩展和维护，它的功能也已经臻于完善
 
 # TvBox资源接口
 
 TvBox单仓
 
+https://cdn.staticaly.com/gh/1771245847/TvBox/master/tvbox.json
+
 https://ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
 
 TvBox多仓
+
+https://cdn.staticaly.com/gh/1771245847/TvBox/master/tvbox.txt
 
 https://ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
 
