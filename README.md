@@ -52,8 +52,6 @@ github
 
 https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases
 
-https://1771245847.lanzouf.com/i680B18bkb6d
-
 ④ 影视仓 Android
 
 https://yingshicang.lanzoul.com/b04dqa4ud
