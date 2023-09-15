@@ -68,7 +68,11 @@ https://t.me/yingmii
 
 https://www.123pan.com/s/OCZRVv-yuqV3.html
 
-⑥ 小苹果影视盒子 - 1.0.9 免费版 
+⑥ CatVod 猫影视 Android
+
+https://github.com/catvod/CatVodOpen/releases
+
+⑦ 小苹果影视盒子 - 1.0.9 免费版 
 
 https://1771245847.lanzouf.com/idf08186kbyb
 
