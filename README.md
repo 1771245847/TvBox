@@ -42,9 +42,9 @@ https://1771245847.lanzouq.com/ieetx151mp4j
 
 https://www.123pan.com/s/PeHqVv-srI5H.html
 
-② EasyBox - 1.1.0  Android
+② EasyBox - 1.2.3  Android
 
-https://1771245847.lanzouf.com/imc48151mrhe
+https://1771245847.lanzouf.com/iH3CM17bl3mb
 
 ③ TVBox Mobile 开源竖屏版 Android
 
