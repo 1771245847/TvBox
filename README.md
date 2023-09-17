@@ -10,11 +10,19 @@ TvBox单仓
 
 https://cdn.staticaly.com/gh/1771245847/TvBox/master/tvbox.json
 
+https://raw.fastgit.org/1771245847/TvBox/master/tvbox.json
+
+https://raw.gitmirror.com/1771245847/TvBox/master/tvbox.json
+
 https://ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
 
 TvBox多仓
 
 https://cdn.staticaly.com/gh/1771245847/TvBox/master/tvbox.txt
+
+https://raw.fastgit.org/1771245847/TvBox/master/tvbox.txt
+
+https://raw.gitmirror.com/1771245847/TvBox/master/tvbox.txt
 
 https://ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
 
