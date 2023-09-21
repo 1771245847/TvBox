@@ -30,17 +30,17 @@ https://raw.gitmirror.com/1771245847/TvBox/master/tvbox.txt
 
 https://ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
 
-TvBox资源接口是TVBox的核心所在，简言之，它是一种特殊的文件，包含了网络上各大影视站的影视爬虫，TVBox通过接口文件可将资源加载至播放器中，如此让你一个播放器整合播放所有资源
+TvBox资源接口是TvBox的核心所在，简言之，它是一种特殊的文件，包含了网络上各大影视站的影视爬虫，TvBox通过接口文件可将资源加载至播放器中，如此让你一个播放器整合播放所有资源
 
-TVBox支持网络接口和本地文件，为了使用方便，通常大家是直接复制粘贴在线接口网址，操作方法，在设置中心粘贴接口地址
+TvBox支持网络接口和本地文件，为了使用方便，通常大家是直接复制粘贴在线接口网址，操作方法，在设置中心粘贴接口地址
 
 # TvBox离线配置
 
-TVBox支持本地离线配置，将自定义链接下载到存储卡，记录路径，复制json的路径地址，填入配置接口
+TvBox支持本地离线配置，将自定义链接下载到存储卡，记录路径，复制json的路径地址，填入配置接口
 
 例如：
 
-clan://localhost/TVBox/test.json
+clan://localhost/TvBox/test.json
 
 # TvBox  App
 
@@ -90,4 +90,4 @@ https://1771245847.lanzouf.com/idf08186kbyb
 
 Copyright © 2023 All Rights Reserved
 
-本仓库资源均来于互联网，请勿用于任何商业用途，仅供学习交流
+本仓库资源均来收集于互联网，请勿用于任何商业用途，仅供学习交流，如侵权，请联系删除
