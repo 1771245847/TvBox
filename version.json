@@ -1,0 +1,8 @@
+{
+    "update" : "Yes",
+    "version_code": 10,
+    "new_version": "0.1",
+    "update_log": "此版本安装前后请清空app数据\n1. 覆盖更新订阅闪退\n2. 播放页优化\n3. 其余优化",
+    "apk_file_url": "https://raw.githubusercontent.com/XiaoRanLiu3119/Release/main/TVBoxOS-Mobile/TVBoxMobile.apk",
+    "constraint": false
+  }
