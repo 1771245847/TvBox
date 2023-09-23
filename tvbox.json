@@ -13,10 +13,10 @@
       "filterable": 1
     },
     {
-      "key": "龙腾资源",
-      "name": "龙腾资源",
+      "key": "Anltv",
+      "name": "Anltv",
       "type": 1,
-      "api": "http://175.178.7.35:2020/api.php/provide/vod/",
+      "api": "http://anltv.cn/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
