@@ -228,17 +228,17 @@
       "filterable": 1
     }
   ],
-  "lives": [{"group": "Tv Live", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWJ1c2VyY29udGVudC5jYWNoZWZseS5uZXQvMTc3MTI0NTg0Ny9UdkJveC9tYXN0ZXIvdHYudHh0"] } ] } ], 
+  "lives": [{"group": "Tv Live", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS8xNzcxMjQ1ODQ3L1R2Qm94L21hc3Rlci90di50eHQ="] } ] } ], 
   "parses": [
     {
       "name": "解析接口①",
       "type": 0,
-      "url": "https://www.playm3u8.cn/jiexi.php?url="
+      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "解析接口②",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "url": "https://www.playm3u8.cn/jiexi.php?url="
     },
     {
       "name": "解析接口③",
