@@ -2,7 +2,7 @@
 
 https://github.com/CatVodTVOfficial/TVBoxOSC
 
-TVBox是一个开源项目，只要遵守协议，任何人均可通过项目生成APK，即官方仓库开源版，也就是TVBox原版, 目前开发者只专注于功能上的扩展和维护，它的功能也已经臻于完善
+TvBox是一个开源项目，只要遵守协议，任何人均可通过项目生成APK，即官方仓库开源版，也就是TvBox原版, 目前开发者只专注于功能上的扩展和维护，它的功能也已经臻于完善
 
 # TvBox资源接口
 
@@ -15,6 +15,8 @@ https://jsd.cdn.zzko.cn/gh/1771245847/TvBox/tvbox.json
 https://raw.fastgit.org/1771245847/TvBox/master/tvbox.json
 
 https://raw.gitmirror.com/1771245847/TvBox/master/tvbox.json
+
+https://raw.githubusercontents.com/1771245847/TvBox/master/tvbox.json
 
 https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
 
@@ -29,6 +31,8 @@ https://jsd.cdn.zzko.cn/gh/1771245847/TvBox/tvbox.txt
 https://raw.fastgit.org/1771245847/TvBox/master/tvbox.txt
 
 https://raw.gitmirror.com/1771245847/TvBox/master/tvbox.txt
+
+https://raw.githubusercontents.com/1771245847/TvBox/master/tvbox.txt
 
 https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
 
@@ -87,10 +91,6 @@ https://www.123pan.com/s/OCZRVv-yuqV3.html
 ⑥ CatVod 猫影视 Android
 
 https://github.com/catvod/CatVodOpen/releases
-
-⑦ 小苹果影视盒子 - 1.0.9 免费版 
-
-https://1771245847.lanzouf.com/idf08186kbyb
 
 Copyright © 2023 All Rights Reserved
 
