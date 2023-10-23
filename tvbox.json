@@ -4,6 +4,15 @@
   "warningText": "残月影视 提醒您: 请勿用于商业用途，仅供学习交流 ",
   "sites": [
     {
+      "key": "NdZy",
+      "name": "MdZy",
+      "type": 1,
+      "api": "http://cj.md214.cn/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "Tt资源",
       "name": "Tt资源",
       "type": 1,
@@ -13,20 +22,94 @@
       "filterable": 1
     },
     {
-      "key": "Anltv",
-      "name": "Anltv",
+      "key": "大漠资源",
+      "name": "大漠资源",
       "type": 1,
-      "api": "http://anltv.cn/api.php/provide/vod",
+      "api": "https://damozy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "花猫TV",
-      "name": "花猫TV",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/花猫TV.js"
+      "key": "Quankanw",
+      "name": "Quankanw",
+      "type": 1,
+      "api": "https://www.quankanw.cc/api.php/provide/vod/from/jsm3u8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "纽约影院",
+      "name": "纽约影院",
+      "type": 1,
+      "api": "https://www.nycvod.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "XkanZy",
+      "name": "XkanZy",
+      "type": 1,
+      "api": "https://xkanzy10.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "赛维影院",
+      "name": "赛维影院",
+      "type": 1,
+      "api": "https://lsys.dsmynas.com:3000//api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "49Zy",
+      "name": "49Zy",
+      "type": 0,
+      "api": "https://49zyw.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "极光资源",
+      "name": "极光资源",
+      "type": 0,
+      "api": "https://jiguang.la/api.php/provide/vod/from/jiguang/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Ahailove",
+      "name": "Ahailove",
+      "type": 1,
+      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Woniufan",
+      "name": "Woniufan",
+      "type": 1,
+      "api": "https://v.woniufan.cn/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "索尼资源",
+      "name": "索尼资源",
+      "type": 0,
+      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "非凡资源",
@@ -36,69 +119,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "360",
-      "name": "360",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
-    },
-    {
-      "key": "爱奇艺",
-      "name": "爱奇艺",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
-    },
-    {
-      "key": "优酷视频",
-      "name": "优酷视频",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
-    },
-    {
-      "key": "腾讯视频",
-      "name": "腾讯视频",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
-    },
-    {
-      "key": "芒果视频",
-      "name": "芒果视频",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
-    },
-    {
-      "key": "搜狗视频",
-      "name": "搜狗视频",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
-    },
-    {
-      "key": "低端影视",
-      "name": "低端影视",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ddys.js"
-    },
-    {
-      "key": "农民影视",
-      "name": "农民影视",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/农民影视.js"
-    },
-    {
-      "key": "酷云七七",
-      "name": "酷云七七",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js"
     },
     {
       "key": "猫咪资源",
@@ -173,10 +193,10 @@
       "filterable": 1
     },
     {
-      "key": "Ck资源",
-      "name": "Ck资源",
-      "type": 0,
-      "api": "https://ckzy.me/api.php/provide/vod/at/xml",
+      "key": "KuakZy",
+      "name": "KuakZy",
+      "type": 1,
+      "api": "http://kuakezy1.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -209,15 +229,6 @@
       "filterable": 1
     },
     {
-      "key": "天翼资源",
-      "name": "天翼资源",
-      "type": 0,
-      "api": "https://www.911ysw.top/tianyi.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "kuaikan",
       "name": "kuaikan",
       "type": 1,
@@ -233,7 +244,7 @@
     {
       "name": "解析接口①",
       "type": 0,
-      "url": "http://aiweier.vip/?url="
+      "url": "https://bf.md214.cn/web/Player?url="
     },
     {
       "name": "解析接口②",
@@ -253,7 +264,10 @@
     "qiyi",
     "letv",
     "sohu",
-    "tudou",
+    "bilibili",
+    "seven",
+    "migu",
+    "ixigua",
     "pptv",
     "mgtv",
     "wasu"
