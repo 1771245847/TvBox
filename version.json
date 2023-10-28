@@ -3,6 +3,6 @@
     "version_code": 10,
     "new_version": "1.0.0",
     "update_log": "此版本安装前后请清空app数据\n1. 覆盖更新订阅闪退\n2. 播放页优化\n3. 其余优化",
-    "apk_file_url": "https://github.com/1771245847/TvBox/releases/download/TvBox-1.0.0/TvBox-1.0.0.apk",
+    "apk_file_url": "https://github.com/1771245847/TvBox/releases/download/TvBox-0.0.1/TvBox-0.0.1.apk",
     "constraint": false
   }
