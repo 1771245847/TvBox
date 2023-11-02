@@ -4,10 +4,10 @@
   "warningText": "残月影视 提醒您: 请勿用于商业用途，仅供学习交流 ",
   "sites": [
     {
-      "key": "NdZy",
-      "name": "MdZy",
+      "key": "voflix",
+      "name": "voflix",
       "type": 1,
-      "api": "http://cj.md214.cn/api.php/provide/vod/?ac=list",
+      "api": "http://voflix.me/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
