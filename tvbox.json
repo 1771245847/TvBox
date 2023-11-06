@@ -242,26 +242,26 @@
   "lives": [{"group": "Tv Live", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS8xNzcxMjQ1ODQ3L1R2Qm94L21hc3Rlci90di50eHQ="] } ] } ], 
   "parses": [
     {
-      "name": "解析接口①",
+      "name": "解析线路①",
       "type": 0,
       "url": "https://bf.md214.cn/web/Player?url="
     },
     {
-      "name": "解析接口②",
+      "name": "解析线路②",
       "type": 0,
       "url": "https://yparse.ik9.cc/index.php?url="
     },
     {
-      "name": "解析接口③",
+      "name": "解析线路③",
       "type": 0,
       "url": "https://bv.htoo.vip/player/ec.php?code=art&if=1&url="
     }
   ],
   "flags": [
-    "youku",
     "qq",
     "iqiyi",
     "qiyi",
+    "youku",
     "letv",
     "sohu",
     "bilibili",
@@ -273,7 +273,7 @@
     "wasu"
   ],
   "ijk": [
-    {
+      {
       "group": "软解码",
       "options": [
         {
