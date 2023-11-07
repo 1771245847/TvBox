@@ -4,17 +4,35 @@
   "warningText": "残月影视 提醒您: 请勿用于商业用途，仅供学习交流 ",
   "sites": [
       {
-      "key": "极速资源",
-      "name": "极速资源",
-      "type": 0,
-      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/xml",
+      "key": "FsZy",
+      "name": "FsZy",
+      "type": 1,
+      "api": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/",
       "playUrl": "",
       "categories": [
       ]
       },
       {
-      "key": "淘片资源",
-      "name": "淘片资源",
+      "key": "YhZy",
+      "name": "YhZy",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "categories": [
+      ]
+      },
+      {
+      "key": "JsZy",
+      "name": "JsZy",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json/",
+      "playUrl": "",
+      "categories": [
+      ]
+      },
+      {
+      "key": "TpZy",
+      "name": "TpZy",
       "type": 0,
       "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html",
       "playUrl": "",
@@ -22,8 +40,8 @@
       ]
       },
       {
-      "key": "速播资源",
-      "name": "速播资源",
+      "key": "SubZy",
+      "name": "SubZy",
       "type": 0,
       "api": "https://subocaiji.com/api.php/provide/vod/from/subm3u8/at/xml",
       "playUrl": "",
@@ -31,8 +49,8 @@
       ]
       },
       {
-      "key": "新浪资源",
-      "name": "新浪资源",
+      "key": "XinLZy",
+      "name": "XinLZy",
       "type": 0,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/at/xml/",
       "playUrl": "",
@@ -40,8 +58,8 @@
       ]
       },
       {
-      "key": "虎牙资源",
-      "name": "虎牙资源",
+      "key": "HuYZy",
+      "name": "HuYZy",
       "type": 0,
       "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
@@ -49,8 +67,8 @@
       ]
       },
       {
-      "key": "火狐资源",
-      "name": "火狐资源",
+      "key": "HhZy",
+      "name": "HhZy",
       "type": 0,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/xml",
       "playUrl": "",
@@ -58,38 +76,38 @@
       ]
       },
       {
-      "key": "闪电资源",
-      "name": "闪电资源",
+      "key": "SdZy",
+      "name": "SdZy",
       "type": 0,
       "api": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml",
-      "playUrl": "https://www.shankubf.com/m3u8/?url=",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
       },
       {
-      "key": "红牛资源",
-      "name": "红牛资源",
-      "type": 0,
-      "api": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml",
-      "playUrl": "https://www.hongniujiexi.com/m3u8/?url=",
+      "key": "HoNZy",
+      "name": "HoNZy",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
       },
       {
-      "key": "量子资源",
-      "name": "量子资源",
+      "key": "LzZy",
+      "name": "LzZy",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
-      "playUrl": "https://lziplayer.com/?url=",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
       },
       {
-      "key": "U酷资源",
-      "name": "U酷资源",
+      "key": "UkZy",
+      "name": "UkZy",
       "type": 0,
       "api": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/at/xml/",
       "searchable": 1,
@@ -97,17 +115,17 @@
       "filterable": 1
       },
       {
-      "key": "百度资源",
-      "name": "百度资源",
-      "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "key": "YlZy",
+      "name": "YlZy",
+      "type": 0,
+      "api": "https://api.ylzy.me/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
       },
       {
-      "key": "天空资源",
-      "name": "天空资源",
+      "key": "TiankZy",
+      "name": "TiankZy",
       "type": 0,
       "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -115,8 +133,8 @@
       "filterable": 1
       },
       {
-      "key": "天堂资源",
-      "name": "天堂资源",
+      "key": "TtZy",
+      "name": "TtZy",
       "type": 1,
       "api": "http://vipmv.cc/api.php/provide/vod/",
       "searchable": 1,
@@ -133,50 +151,50 @@
       "filterable": 1
       },
       {
-      "key": "快车资源",
-      "name": "快车资源",
+      "key": "KcZy",
+      "name": "KcZy",
       "type": 0,
       "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/at/xml",
-      "playUrl": "https://jiexi.kczyapi.com/m3u8/?url=",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
       },
       {
-      "key": "光速资源",
-      "name": "光速资源",
-      "type": 0,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
-      "playUrl": "https://www.dmplay.xyz/d?url=",
+      "key": "GusZy",
+      "name": "GusZy",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
       },
       {
-      "key": "暴风资源",
-      "name": "暴风资源",
-      "type": 0,
-      "api": "https://bfzyapi.com/api.php/provide/vod/at/xml",
+      "key": "JyZy",
+      "name": "JyZy",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
       },
       {
-      "key": "Wujin资源",
-      "name": "Wujin资源",
+      "key": "WujZy",
+      "name": "WujZY",
       "type": 0,
       "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/",
-      "playUrl": "https://jx.wujinkk.com/dplayer/?url=",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
       }
       ],
-  "lives": [{"group": "Tv Live", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS8xNzcxMjQ1ODQ3L1R2Qm94L21hc3Rlci90di50eHQ="] } ] } ], 
-  "parses": [
+     "lives": [{"group": "Tv Live", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS8xNzcxMjQ1ODQ3L1R2Qm94L21hc3Rlci90di50eHQ="] } ] } ], 
+     "parses": [
       {
-        "name": "解析线路①",
-        "url": "https://bf.md214.cn/web/Player?url="
+         "name": "解析线路①",
+         "url": "https://jx.2s0.cn/player/?url="
       },
       {
          "name": "解析线路②",
@@ -201,8 +219,8 @@
     "pptv",
     "mgtv",
     "wasu"
-   ],
-  "ijk": [
+    ],
+   "ijk": [
     {
       "group": "软解码",
       "options": [
