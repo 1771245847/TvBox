@@ -9,24 +9,24 @@
           "time": "1771245847"
       },
       {
-          "url": "https://xn--z7x900a.love",
-          "name": "肥猫线路"
+          "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+          "name": "南风线路"
       },
       {
           "url": "http://rihou.cc:88/荷城茶秀",
           "name": "荷城茶秀"
       },
       {
-          "url": "https://raw.liucn.cc/box/m.json",
-          "name": "刘备线路"
+          "url": "http://肥猫.live",
+          "name": "肥猫线路"
       },
       {
-          "url": "http://miaotvs.cn/meow",
-          "name": "喵影线路"
+          "url": "http://52bsj.vip:98/wuai",
+          "name": "吾爱线路"
       },
       {
-          "url": "http://8.210.232.168/xc.json",
-          "name": "星辰线路"
+          "url": "https://tvbox.cainisi.cf",
+          "name": "菜妮丝线路"
       }
   ]
 }
