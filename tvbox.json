@@ -4,6 +4,45 @@
   "warningText": "残月影视 提醒您: 请勿用于商业用途，仅供学习交流 ",
   "sites": [
     {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/js/drpy.js"
+    },
+    {
+      "key": "荐片影视",
+      "name": "荐片影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
+    },
+    {
+      "key": "腾讯视频",
+      "name": "腾讯视频",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/js/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/js/qq.js"
+    },
+    {
+      "key": "爱奇艺",
+      "name": "爱奇艺",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/js/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/js/iqiyi.js"
+    },
+    {
+      "key": "优酷",
+      "name": "优酷",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/js/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/js/youku.js"
+    },
+    {
       "key": "voflix",
       "name": "voflix",
       "type": 1,
@@ -13,37 +52,10 @@
       "filterable": 1
     },
     {
-      "key": "Tt资源",
-      "name": "Tt资源",
-      "type": 1,
-      "api": "https://ys.md214.cn/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "大漠资源",
       "name": "大漠资源",
       "type": 1,
-      "api": "https://damozy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Quankanw",
-      "name": "Quankanw",
-      "type": 1,
-      "api": "https://www.quankanw.cc/api.php/provide/vod/from/jsm3u8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "纽约影院",
-      "name": "纽约影院",
-      "type": 1,
-      "api": "https://www.nycvod.com/api.php/provide/vod/",
+      "api": "https://damozy2.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -121,37 +133,10 @@
       "filterable": 1
     },
     {
-      "key": "猫咪资源",
-      "name": "猫咪资源",
-      "type": 1,
-      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "ikun资源",
       "name": "ikun资源",
       "type": 0,
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "明帝影视",
-      "name": "明帝影视",
-      "type": 0,
-      "api": "http://cj.md214.cn/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "YT资源",
-      "name": "YT资源",
-      "type": 1,
-      "api": "https://cj.vodimg.top/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -211,15 +196,6 @@
       "filterable": 1
     },
     {
-      "key": "新片热播",
-      "name": "新片热播",
-      "type": 1,
-      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "雨哥影视",
       "name": "雨哥影视",
       "type": 1,
@@ -232,8 +208,8 @@
       "key": "kuaikan",
       "name": "kuaikan",
       "type": 1,
-      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan",
-      "playUrl": "https://jx.zuidplay.com/m3u8Player/?url=",
+      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -244,7 +220,7 @@
     {
       "name": "解析线路①",
       "type": 0,
-      "url": "https://bf.md214.cn/web/Player?url="
+      "url": "https://jx.yangtu.top/?url="
     },
     {
       "name": "解析线路②",
