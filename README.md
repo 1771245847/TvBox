@@ -20,8 +20,6 @@ https://raw.githubusercontents.com/1771245847/TvBox/master/tvbox.json
 
 https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
 
-https://ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
-
 TvBox多仓
 
 https://cdn.jsdelivr.us/gh/1771245847/TvBox/tvbox.txt
@@ -36,8 +34,6 @@ https://raw.githubusercontents.com/1771245847/TvBox/master/tvbox.txt
 
 https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
 
-https://ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
-
 TvBox资源接口是TvBox的核心所在，简言之，它是一种特殊的文件，包含了网络上各大影视站的影视爬虫，TvBox通过接口文件可将资源加载至播放器中，如此让你一个播放器整合播放所有资源
 
 TvBox支持网络接口和本地文件，为了使用方便，通常大家是直接复制粘贴在线接口网址，操作方法，在设置中心粘贴接口地址
@@ -50,7 +46,7 @@ TvBox支持本地离线配置，将自定义链接下载到存储卡，记录路
 
 clan://localhost/TvBox/test.json
 
-# TvBox  App
+# TvBox App
 
 ① TvBox 【Tv】
 
@@ -66,7 +62,7 @@ https://www.123pan.com/s/PeHqVv-srI5H.html
 
 https://1771245847.lanzouf.com/iH3CM17bl3mb
 
-③ TVBox Mobile 开源竖屏版 Android
+③ TvBox Mobile 开源竖屏版 Android
 
 github
 
