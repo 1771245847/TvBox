@@ -43,8 +43,8 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/js/youku.js"
     },
     {
-      "key": "voflix",
-      "name": "voflix",
+      "key": "Voflix",
+      "name": "Voflix",
       "type": 1,
       "api": "http://voflix.me/api.php/provide/vod/?ac=list",
       "searchable": 1,
