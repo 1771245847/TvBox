@@ -12,8 +12,6 @@ https://cdn.jsdelivr.us/gh/1771245847/TvBox/tvbox.json
 
 https://jsd.cdn.zzko.cn/gh/1771245847/TvBox/tvbox.json
 
-https://raw.fastgit.org/1771245847/TvBox/master/tvbox.json
-
 https://raw.gitmirror.com/1771245847/TvBox/master/tvbox.json
 
 https://raw.githubusercontents.com/1771245847/TvBox/master/tvbox.json
@@ -25,8 +23,6 @@ TvBox多仓
 https://cdn.jsdelivr.us/gh/1771245847/TvBox/tvbox.txt
 
 https://jsd.cdn.zzko.cn/gh/1771245847/TvBox/tvbox.txt
-
-https://raw.fastgit.org/1771245847/TvBox/master/tvbox.txt
 
 https://raw.gitmirror.com/1771245847/TvBox/master/tvbox.txt
 
