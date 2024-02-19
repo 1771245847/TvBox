@@ -55,7 +55,7 @@
       "key": "忆梦影视",
       "name": "忆梦影视",
       "type": 1,
-      "api": "https://gnpt.net/api.php/provide/vod/from/sohu/?at/xml/",
+      "api": "http://anltv.cn/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
