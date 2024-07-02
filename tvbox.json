@@ -43,10 +43,10 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/js/youku.js"
     },
     {
-      "key": "Voflix",
-      "name": "Voflix",
+      "key": "乐视资源",
+      "name": "乐视资源",
       "type": 1,
-      "api": "http://voflix.me/api.php/provide/vod/?ac=list",
+      "api": "https://leshiapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -55,16 +55,7 @@
       "key": "忆梦影视",
       "name": "忆梦影视",
       "type": 1,
-      "api": "http://anltv.cn/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "XkanZy",
-      "name": "XkanZy",
-      "type": 1,
-      "api": "https://xkanzy10.com/api.php/provide/vod",
+      "api": "https://www.gnpt.net/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -79,37 +70,10 @@
       "filterable": 1
     },
     {
-      "key": "49Zy",
-      "name": "49Zy",
-      "type": 0,
-      "api": "https://49zyw.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "极光资源",
-      "name": "极光资源",
-      "type": 0,
-      "api": "https://jiguang.la/api.php/provide/vod/from/jiguang/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "奇虎资源",
-      "name": "奇虎资源",
+      "key": "光速资源",
+      "name": "光速资源",
       "type": 1,
-      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "乐视资源",
-      "name": "乐视资源",
-      "type": 1,
-      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
