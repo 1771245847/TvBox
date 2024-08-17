@@ -4,7 +4,7 @@ https://github.com/CatVodTVOfficial/TVBoxOSC
 
 TvBox是一个开源项目，只要遵守协议，任何人均可通过项目生成APK，即官方仓库开源版，也就是TvBox原版, 目前开发者只专注于功能上的扩展和维护，它的功能也已经臻于完善
 
-# TvBox资源接口
+# TvBox 订阅源接口
 
 TvBox单仓
 
@@ -44,9 +44,7 @@ clan://localhost/TvBox/test.json
 
 # TvBox App
 
-① TvBox 【Tv】
-
-github
+TvBox 【tv】
 
 https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
@@ -54,35 +52,29 @@ https://1771245847.lanzouq.com/ieetx151mp4j
 
 https://www.123pan.com/s/PeHqVv-srI5H.html
 
-② EasyBox - 1.2.3  Android
+EasyBox - 1.2.3  Android
 
 https://1771245847.lanzouf.com/iH3CM17bl3mb
 
-③ TvBox Mobile 开源竖屏版 Android
-
-github
+TvBox Mobile 开源竖屏Android版
 
 https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases
 
-④ 影视仓 Android
+影视仓 Android
 
 https://yingshicang.lanzoul.com/b04dqa4ud
 
 密码: 3zcz
 
-Telegram
-
-⑤ 影迷 Android
-
-Telegram
+影迷 Android
 
 https://t.me/yingmii
 
 https://www.123pan.com/s/OCZRVv-nx6V3.html
 
-⑥ CatVod 猫影视 Android
+宝盒 Android
 
-https://github.com/catvod/CatVodOpen/releases
+https://1771245847.lanzouq.com/iLsBS27l74wj
 
 Copyright © 2023 All Rights Reserved
 
