@@ -52,9 +52,11 @@ https://1771245847.lanzouq.com/ieetx151mp4j
 
 https://www.123pan.com/s/PeHqVv-srI5H.html
 
-EasyBox - 1.2.3  Android
+EasyBox  Android
 
-https://1771245847.lanzouf.com/iH3CM17bl3mb
+1.2.3: https://1771245847.lanzouf.com/iH3CM17bl3mb
+
+1.3.0: https://1771245847.lanzouq.com/iwV2X1dbs7kb
 
 TvBox Mobile 开源竖屏Android版
 
