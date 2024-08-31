@@ -16,6 +16,10 @@ https://raw.githubusercontents.com/1771245847/TvBox/master/tvbox.json
 
 https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
 
+https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
+
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
+
 TvBox多仓
 
 https://jsd.cdn.zzko.cn/gh/1771245847/TvBox/tvbox.txt
@@ -25,6 +29,10 @@ https://raw.gitmirror.com/1771245847/TvBox/master/tvbox.txt
 https://raw.githubusercontents.com/1771245847/TvBox/master/tvbox.txt
 
 https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
+
+https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
+
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
 
 TvBox资源接口是TvBox的核心所在，简言之，它是一种特殊的文件，包含了网络上各大影视站的影视爬虫，TvBox通过接口文件可将资源加载至播放器中，如此让你一个播放器整合播放所有资源
 
