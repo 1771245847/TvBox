@@ -74,6 +74,15 @@
       "filterable": 1
     },
     {
+      "key": "华为资源",
+      "name": "华为资源",
+      "type": 1,
+      "api": "https://cjhwba.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "忆梦影视",
       "name": "忆梦影视",
       "type": 1,
