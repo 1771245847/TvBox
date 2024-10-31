@@ -78,6 +78,10 @@ https://t.me/yingmii
 
 https://www.123pan.com/s/OCZRVv-nx6V3.html
 
-Copyright © 2023 All Rights Reserved
+宝盒 Android
+
+https://1771245847.lanzouq.com/b033zvh8od
+
+密码: 123456
 
 本仓库资源均来收集于互联网，请勿用于任何商业用途，仅供学习交流，如侵权，请联系删除
