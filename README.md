@@ -58,6 +58,8 @@ https://www.123pan.com/s/PeHqVv-srI5H.html
 
 EasyBox  Android
 
+https://www.easybox.pro/
+
 1.2.3: https://1771245847.lanzouf.com/iH3CM17bl3mb
 
 1.3.0: https://1771245847.lanzouq.com/iwV2X1dbs7kb
