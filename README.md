@@ -8,7 +8,7 @@ TvBox是一个开源项目，只要遵守协议，任何人均可通过项目生
 
 TvBox单仓
 
-[主力]: https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json
+主力更新: https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json
 
 https://jsd.cdn.zzko.cn/gh/1771245847/TvBox/tvbox.json
 
