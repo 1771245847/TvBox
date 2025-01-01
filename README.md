@@ -42,11 +42,11 @@ TvBox支持网络接口和本地文件，为了使用方便，通常大家是直
 
 # ZyPLayer 订阅源接口
 
-ZyPLayer-Version:2.8.8
+ZyPLayer-Version-2.8.8
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/zyplayer-2.0.json
 
-ZyPLayer-Version:3.3.7
+ZyPLayer-Version-3.3.7
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/zyplayer-3.0.json
 
