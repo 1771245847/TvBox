@@ -40,6 +40,16 @@ TvBox资源接口是TvBox的核心所在，简言之，它是一种特殊的文�
 
 TvBox支持网络接口和本地文件，为了使用方便，通常大家是直接复制粘贴在线接口网址，操作方法，在设置中心粘贴接口地址
 
+# ZyPLayer 订阅源接口
+
+ZyPLayer-Version:2.8.8
+
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/zyplayer-2.0.json
+
+ZyPLayer-Version:3.3.7
+
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/zyplayer-3.0.json
+
 # TvBox离线配置
 
 TvBox支持本地离线配置，将自定义链接下载到存储卡，记录路径，复制json的路径地址，填入配置接口
