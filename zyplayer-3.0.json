@@ -1,0 +1,200 @@
+//免费分享，切勿付费购买
+
+//温馨提示: 本接口由残月影视维护, 请勿用于任何商业用途，仅供学习交流
+
+{
+ "sites": {
+   "default":1,
+   "data":[
+  {
+    "key": "量子资源",
+    "name": "量子资源",
+    "api": "http://cj.lziapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "残月影视",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 1
+  },
+  {
+    "key": "非凡资源",
+    "name": "非凡资源",
+    "api": "http://www.ffzy.tv/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "残月影视",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 2
+  },
+  {
+    "key": "快车资源",
+    "name": "快车资源",
+    "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "残月影视",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 3
+  },
+  {
+    "key": "无尽资源",
+    "name": "无尽资源",
+    "api": "https://api.wujinapi.me/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "残月影视",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 4
+  },
+  {
+    "key": "天空资源",
+    "name": "天空资源",
+    "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "残月影视",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 5
+  },
+  {
+    "key": "卧龙资源",
+    "name": "卧龙资源",
+    "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "残月影视",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 6
+  },
+  {
+    "key": "影图影视",
+    "name": "影图影视",
+    "api": "https://cj.vodimg.top/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "残月影视",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 7
+  },
+  {
+    "key": "ikun资源",
+    "name": "ikun资源",
+    "api": "https://ikunzy.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "残月影视",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 8
+  },
+  {
+    "key": "易看资源",
+    "name": "易看资源",
+    "api": "https://api.yikanapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "残月影视",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 9
+  },
+  {
+    "key": "樱花资源",
+    "name": "樱花资源",
+    "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "残月影视",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 10
+  },
+  {
+    "key": "闪电资源",
+    "name": "闪电资源",
+    "api": "http://sdzyapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "残月影视",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 11
+  },
+  {
+    "key": "红牛资源",
+    "name": "红牛资源",
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "残月影视",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 12
+  },        
+  {
+    "key": "虎牙资源",
+    "name": "虎牙资源",
+    "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "残月影视",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 13
+  }                      
+]},
+"iptv":  {
+  "default":1,
+   "data":[
+ {
+    "name": "TvLiVe",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true,
+    "id": 1
+  }
+]},
+"analyzes":  {"default":1,
+   "data":
+[
+  {
+    "name": "解析线路1",
+    "url": "https://jx.xmflv.com/?url=",
+    "isActive": true,
+    "id": 1
+  },
+  {
+    "name": "解析线路2",
+    "url": "https://www.yemu.xyz/?url=",
+    "isActive": true,
+    "id": 2
+  },
+  {
+    "name": "解析线路3",
+    "url": "https://jx.m3u8.tv/jiexi/?url=",
+    "isActive": true,
+    "id": 3
+  }
+]
+}
+}
