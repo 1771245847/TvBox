@@ -6,9 +6,9 @@ TvBox是一个开源项目，只要遵守协议，任何人均可通过项目生
 
 # TvBox 订阅源接口
 
-TvBox单仓
+tvbox单仓-主力更新-订阅源接口: https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json
 
-主力更新: https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json
+TvBox单仓
 
 https://jsd.cdn.zzko.cn/gh/1771245847/TvBox/tvbox.json
 
