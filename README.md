@@ -50,7 +50,7 @@ clan://localhost/TvBox/test.json
 
 # TvBox App
 
-TvBox 【tv】
+TvBox 【Tv】
 
 https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
