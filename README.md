@@ -54,6 +54,8 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/ma
 
 # Uz影视 订阅源接口
 
+使用说明: 设置 -> 数据管理 -> 视频源 -> 小齿轮 -> 添加源列表 -> 输入链接 -> 确定
+
 https://ghgo.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/uzys.json
 
 # TvBox离线配置
@@ -82,7 +84,7 @@ https://www.easybox.pro/
 
 1.3.0: https://1771245847.lanzouq.com/iwV2X1dbs7kb
 
-TvBox Mobile 开源竖屏Android版
+TvBox Mobile Android
 
 https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases
 
@@ -104,7 +106,7 @@ https://1771245847.lanzouq.com/b033zvh8od
 
 密码: 123456
 
-ZyPlayer下载《二次开发》
+ZyPlayer
 
 https://www.123684.com/s/PeHqVv-R1P5H
 
