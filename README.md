@@ -52,6 +52,10 @@ ZyPLayer-Version-3.3.7
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/zyplayer-3.0.json
 
+# Uz影视 订阅源接口
+
+https://ghgo.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/uzys.json
+
 # TvBox离线配置
 
 TvBox支持本地离线配置，将自定义链接下载到存储卡，记录路径，复制json的路径地址，填入配置接口
@@ -92,12 +96,20 @@ https://yingshicang.lanzoul.com/b04dqa4ud
 
 https://t.me/yingmii
 
-https://www.123pan.com/s/OCZRVv-nx6V3.html
+https://www.123pan.com/s/PeHqVv-daP5H
 
 宝盒 Android
 
 https://1771245847.lanzouq.com/b033zvh8od
 
 密码: 123456
+
+ZyPlayer下载《二次开发》
+
+https://www.123684.com/s/PeHqVv-R1P5H
+
+Uz影视
+
+https://www.123865.com/s/PeHqVv-MBP5H
 
 本仓库资源均来收集于互联网，请勿用于任何商业用途，仅供学习交流，如侵权，请联系删除
