@@ -60,7 +60,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/ma
 
 使用说明: 设置 -> 数据管理 -> 视频源 -> 小齿轮 -> 添加源列表 -> 输入链接 -> 确定
 
-https://ghgo.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/uzys.json
+https://ghgo.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/uz.json
 
 # TvBox App
 
