@@ -16,8 +16,6 @@ https://raw.gitmirror.com/1771245847/TvBox/master/tvbox.json
 
 https://raw.githubusercontents.com/1771245847/TvBox/master/tvbox.json
 
-https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
-
 https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
@@ -30,8 +28,6 @@ https://raw.gitmirror.com/1771245847/TvBox/master/tvbox.txt
 
 https://raw.githubusercontents.com/1771245847/TvBox/master/tvbox.txt
 
-https://ghproxy.net/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
-
 https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
@@ -39,6 +35,14 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/ma
 TvBox资源接口是TvBox的核心所在，简言之，它是一种特殊的文件，包含了网络上各大影视站的影视爬虫，TvBox通过接口文件可将资源加载至播放器中，如此让你一个播放器整合播放所有资源
 
 TvBox支持网络接口和本地文件，为了使用方便，通常大家是直接复制粘贴在线接口网址，操作方法，在设置中心粘贴接口地址
+
+# TvBox离线配置
+
+TvBox支持本地离线配置，将自定义链接下载到存储卡，记录路径，复制json的路径地址，填入配置接口
+
+例如：
+
+clan://localhost/TvBox/test.json
 
 # ZyPLayer 订阅源接口
 
@@ -57,14 +61,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/ma
 使用说明: 设置 -> 数据管理 -> 视频源 -> 小齿轮 -> 添加源列表 -> 输入链接 -> 确定
 
 https://ghgo.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/uzys.json
-
-# TvBox离线配置
-
-TvBox支持本地离线配置，将自定义链接下载到存储卡，记录路径，复制json的路径地址，填入配置接口
-
-例如：
-
-clan://localhost/TvBox/test.json
 
 # TvBox App
 
@@ -106,11 +102,11 @@ https://1771245847.lanzouq.com/b033zvh8od
 
 密码: 123456
 
-ZyPlayer
+# ZyPlayer
 
 https://www.123684.com/s/PeHqVv-R1P5H
 
-Uz影视
+# Uz影视
 
 https://www.123865.com/s/PeHqVv-MBP5H
 
