@@ -4,7 +4,7 @@
             "name": "免费分享，切勿付费购买",
             "codeID": "温馨提示: 本接口由【残月影视】维护, 请勿用于任何商业用途，仅供学习交流",
             "url": "以下来源于网络，如有冒犯请联系删除, 所有内容仅供学习使用，请勿用于违法用途",
-            "version": "2025/1/5",
+            "version": "2025/1/9",
             "type": 200
         }
         ],
@@ -12,9 +12,9 @@
        
         {
             "name": "TvLive",
-            "url": "https://ac.fookxue.top/tvzb.txt",
+            "url": "https://raw.gitmirror.com/1771245847/TvBox/master/tv.txt",
             "type": 10,
-            "remark": "Tv直播"
+            "remark": "残月直播"
         }
         ],
   "vod": [
