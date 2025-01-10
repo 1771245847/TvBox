@@ -44,13 +44,7 @@ clan://localhost/TvBox/test.json
 
 使用方法: 点开设置 -> 基础配置 -> 数据管理 -> 一键配置 -> 此软件  -> 地址，然后填入订阅地址
 
-ZyPLayer-Version-2.8.8
-
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/zyplayer-2.0.json
-
-ZyPLayer-Version-3.3.7
-
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/zyplayer-3.0.json
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/zyplayer.json
 
 # Uz影视 订阅源接口
 
