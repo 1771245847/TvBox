@@ -100,4 +100,10 @@ https://www.123684.com/s/PeHqVv-R1P5H
 
 https://www.123865.com/s/PeHqVv-MBP5H
 
-本仓库资源均来收集于互联网，请勿用于任何商业用途，仅供学习交流，如侵权，请联系删除
+## 💰 赞赏支持
+<p>
+<img width="200" height="200" src="https://pica.zhimg.com/v2-5e3b875bdd86bec3edfee61813d4f396_1440w.jpg">
+</p>
+
+
+本仓库资源均来收集于互联网，请勿用于任何商业用途，仅供学习交流
