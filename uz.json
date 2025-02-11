@@ -1,0 +1,126 @@
+{
+  "recommend": [
+        {
+            "name": "免费分享，切勿付费购买",
+            "codeID": "温馨提示: 本接口由【残月影视】维护, 请勿用于任何商业用途，仅供学习交流",
+            "url": "以下来源于网络，如有冒犯请联系删除, 所有内容仅供学习使用，请勿用于违法用途",
+            "version": "2025/2/11",
+            "type": 200
+        }
+        ],
+  "live": [
+       
+        {
+            "name": "TvLive",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/tv.txt",
+            "type": 10,
+            "remark": "残月直播"
+        },
+        {
+            "name": "肥羊咪咕",
+            "url": "https://www.freetv.top/migu.m3u",
+            "type": 10,
+            "remark": "https://github.com/YanG-1989"
+        }
+        ],
+  "vod": [
+        {
+            "api": "https://img.smdyw.top/api.php/provide/vod",
+            "name": "神马影视"
+        },
+        {
+            "api": "https://cjhwba.com/api.php/provide/vod/",
+            "name": "华为资源"
+        },
+        {
+            "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml",
+            "name": "非凡资源"
+        },
+        {
+            "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml",
+            "name": "如意资源"
+        },
+        {
+            "api": "https://360zy.com/api.php/provide/vod/from/360m3u8/at/xml",
+            "name": "360资源"
+        },
+        {
+            "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+            "name": "魔都资源"
+        },
+        {
+            "api": "https://okzyw9.com/api.php/provide/vod/from/okm3u8/at/xml",
+            "name": "OK资源"
+        },
+        {
+            "api": "https://zpsps.com/api.php/provide/vod/?ac=list",
+            "name": "宝片影视"
+        },
+        {
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
+            "name": "樱花资源"
+        },
+        {
+            "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+            "name": "牛牛资源"
+        },
+        {
+            "api": "https://cj.yayazy.net/api.php/provide/vod/from/yym3u8/at/xml",
+            "name": "丫丫资源"
+        },
+        {
+            "api": "https://cj.vodimg.top/api.php/provide/vod/",
+            "name": "影图影视"
+        },
+        {
+            "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+            "name": "HeiR资源"
+        },
+        {
+            "name": "天天影视",
+            "api": "https://www.ghproxy.cc/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/tiantian.js",
+            "instance": "tiantian20240629",
+            "webSite": "http://op.ysdqjs.cn",
+            "remark": "",
+            "version": "2",
+            "type": 100
+        },
+        {
+            "name": "金牌影院",
+            "api": "https://www.ghproxy.cc/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/jpyy.js",
+            "instance": "jpyy20240716",
+            "webSite": "https://www.ghw9zwp5.com",
+            "remark": "",
+            "version": "2",
+            "type": 100
+        },
+        {
+            "name": "瓜子影视",
+            "api": "https://www.ghproxy.cc/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/gzapp.js",
+            "codeID": "ra5Z3wtXKshzSMK2",
+            "instance": "gzapp20241001",
+            "webSite": "https://api.9cec79d.com",
+            "remark": "",
+            "version": "2",
+            "type": 100
+        },
+        {
+            "name": "奇优影院",
+            "api": "https://www.ghproxy.cc/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/qiyou.js",
+            "instance": "qiyou20240904",
+            "webSite": "http://www.qiyoudy4.com",
+            "remark": "",
+            "version": "2",
+            "type": 100
+        },
+        {
+            "name": "哔嘀影视",
+            "api": "https://www.ghproxy.cc/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/biliys.js",
+            "webSite": "https://www.xlys01.com",
+            "remark": "1.6.41 及以上版本可用",
+            "version": "1",
+            "type": 101
+        }
+        
+    ]
+}
