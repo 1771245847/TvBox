@@ -4,7 +4,7 @@ https://github.com/CatVodTVOfficial/TVBoxOSC
 
 TvBox是一个开源项目，只要遵守协议，任何人均可通过项目生成APK，即官方仓库开源版，也就是TvBox原版, 目前开发者只专注于功能上的扩展和维护，它的功能也已经臻于完善
 
-# TvBox 订阅源接口
+# TvBox 订阅源
 
 订阅源接口-主力更新-订阅仓库:
 
@@ -42,13 +42,13 @@ TvBox支持本地离线配置，将自定义链接下载到存储卡，记录路
 
 clan://localhost/TvBox/test.json
 
-# ZyPLayer 订阅源接口
+# ZyPLayer 订阅源
 
 使用方法: 点开设置 -> 基础配置 -> 数据管理 -> 一键配置 -> 此软件  -> 地址，然后填入订阅地址
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/zyplayer.json
 
-# Uz影视 订阅源接口
+# Uz影视 订阅源
 
 使用说明: 设置 -> 数据管理 -> 视频源 -> 小齿轮 -> 添加源列表 -> 输入链接 -> 确定
 
