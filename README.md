@@ -56,15 +56,13 @@ https://ghgo.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/uz.js
 
 # TvBox App
 
-TvBox 【Tv】
+TvBox tv
 
 https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
-https://1771245847.lanzouq.com/ieetx151mp4j
+https://www.123865.com/s/PeHqVv-1LG5H
 
-https://www.123pan.com/s/PeHqVv-srI5H.html
-
-EasyBox  Android
+EasyBox
 
 https://www.easybox.pro/
 
@@ -76,31 +74,43 @@ TvBox Mobile Android
 
 https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases
 
-影视仓 Android
+MBox
+
+https://www.123865.com/s/PeHqVv-HZP5H
+
+影视仓
 
 https://yingshicang.lanzoul.com/b04dqa4ud
 
 密码: 3zcz
 
-影迷 Android
+影迷
 
 https://t.me/yingmii
 
 https://www.123pan.com/s/PeHqVv-daP5H
 
-宝盒 Android
+宝盒
 
 https://1771245847.lanzouq.com/b033zvh8od
 
 密码: 123456
 
+https://www.123865.com/s/PeHqVv-x0G5H
+
 # ZyPlayer
 
-https://www.123684.com/s/PeHqVv-R1P5H
+https://www.123865.com/s/PeHqVv-R1P5H
 
 # Uz影视
 
 https://www.123865.com/s/PeHqVv-MBP5H
+
+https://github.com/YYDS678/uzVideo
+
+https://www.123865.com/s/53qDVv-bvBXv
+
+密码: uznb
 
 ## 💰 赞赏支持
 <p>
