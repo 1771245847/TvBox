@@ -10,7 +10,7 @@ https://bitbucket.org/1771245847/tvbox/
 
 # TvBox 订阅源
 
-TvBox单仓
+TvBox 单仓
 
 https://jsd.cdn.zzko.cn/gh/1771245847/TvBox/tvbox.json
 
@@ -20,7 +20,7 @@ https://raw.githubusercontents.com/1771245847/TvBox/master/tvbox.json
 
 https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
 
-TvBox多仓
+TvBox 多仓
 
 https://jsd.cdn.zzko.cn/gh/1771245847/TvBox/tvbox.txt
 
@@ -54,7 +54,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/ma
 
 https://ghgo.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/uz.json
 
-# tBox订阅源
+# tBox 订阅源
 
 https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/tBox.json
 
