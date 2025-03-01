@@ -6,7 +6,7 @@ TvBox是一个开源项目，只要遵守协议，任何人均可通过项目生
 
 # TvBox 订阅源
 
-订阅源接口-主力更新-订阅仓库:
+订阅源-主力更新-订阅仓库:
 
 https://bitbucket.org/1771245847/tvbox/
 
@@ -99,6 +99,8 @@ https://1771245847.lanzouq.com/b033zvh8od
 https://www.123865.com/s/PeHqVv-x0G5H
 
 # ZyPlayer
+
+https://github.com/Hiram-Wong/ZyPlayer/releases
 
 https://www.123865.com/s/PeHqVv-R1P5H
 
