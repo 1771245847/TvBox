@@ -4,11 +4,11 @@ https://github.com/CatVodTVOfficial/TVBoxOSC
 
 TvBox是一个开源项目，只要遵守协议，任何人均可通过项目生成APK，即官方仓库开源版，也就是TvBox原版, 目前开发者只专注于功能上的扩展和维护，它的功能也已经臻于完善
 
-# TvBox 订阅源
-
-订阅源-主力更新-订阅仓库:
+# TvBox → 订阅源-主力更新-订阅仓库:
 
 https://bitbucket.org/1771245847/tvbox/
+
+# TvBox 订阅源
 
 TvBox单仓
 
@@ -54,7 +54,11 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/ma
 
 https://ghgo.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/uz.json
 
-# TvBox App
+# tBox订阅源
+
+https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/tBox.json
+
+# TvBox
 
 TvBox tv
 
@@ -113,6 +117,10 @@ https://github.com/YYDS678/uzVideo
 https://www.123865.com/s/53qDVv-bvBXv
 
 密码: uznb
+
+# tBox
+
+https://www.123865.com/s/PeHqVv-L5P5H
 
 ## 💰 赞赏支持
 <p>
