@@ -60,7 +60,7 @@ https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/tBo
 
 # TvBox
 
-TvBox tv
+TvBox Tv
 
 https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
