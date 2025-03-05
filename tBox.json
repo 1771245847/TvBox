@@ -1,0 +1,199 @@
+{
+	"sites": [{
+		"key": "360影视",
+		"name": "360影视",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/1771245847/TvBox/master/js/360.js",
+		"flagable": 1,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},
+	{
+		"key": "YzK资源",
+		"name": "YzK资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://api.yzzy-api.com/inc/apijson.php",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},
+	{
+		"key": "非凡资源",
+		"name": "非凡资源",
+		"type": 0,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "feifan",
+		"firstPlay": "",
+		"ext": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},
+	{
+		"key": "HeR资源",
+		"name": "HeR资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://json02.heimuer.xyz/api.php/provide/vod/",
+		"flagable": 1,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},
+	{
+		"key": "新浪资源",
+		"name": "新浪资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "xlyun",
+		"firstPlay": "xlm3u8",
+		"ext": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},
+	{
+		"key": "百度资源",
+		"name": "百度资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "bdyun",
+		"firstPlay": "bdm3u8",
+		"ext": "https://api.apibdzy.com/api.php/provide/vod/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},
+	{
+		"key": "卧龙资源",
+		"name": "卧龙资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://collect.wolongzyw.com/api.php/provide/vod/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},
+	{
+		"key": "索尼资源",
+		"name": "索尼资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://suoniapi.com/api.php/provide/vod/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},
+	{
+		"key": "如意资源",
+		"name": "如意资源",
+		"type": 0,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},
+	{
+		"key": "华为资源",
+		"name": "华为资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://cjhwba.com/api.php/provide/vod/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	}],
+	"parses": [{
+		"name": "解析线路1",
+		"type": 0,
+		"url": "https://jx.xmflv.com/?url=",
+		"ext": {
+			"flag": ["bilibili","qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "youku", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
+			"header": {
+				"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+			}
+		}
+	},
+	{
+		"name": "解析线路2",
+		"type": 0,
+		"url": "https://yparse.ik9.cc/index.php?url=",
+		"ext": {
+			"flag": ["bilibili","qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "youku", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
+			"header": {
+				"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+			}
+		}
+	},
+	{
+		"name": "解析线路3",
+		"type": 1,
+		"url": "https://jx.77flv.cc/?url=",
+		"ext": {
+			"flag": ["bilibili","qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "youku", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
+			"header": {
+				"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+			}
+		}
+	},
+	{
+
+		"name": "解析线路4",
+		"type": 0,
+		"url": "https://jx.hls.one/?url=",
+		"ext": {
+			"flag": ["qq", "iqiyi"],
+			"header": {
+				"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+			}
+		}
+	},
+	{
+		"name": "解析线路5",
+		"type": 0,
+		"url": "https://rdfplayer.mrgaocloud.com/player/?url=",
+		"ext": {
+			"flag": ["youku"],
+			"header": {
+				"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+			}
+		}
+	}],
+	"flags": ["bilibili","mgtv", "youku", "优酷", "优酷视频", "qq", "腾讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "m1905", "xigua", "letv", "leshi", "乐视", "sohu", "搜狐", "搜狐视频", "tudou", "pptv", "mgtv", "芒果", "youku", "芒果TV", "bilibili", "哔哩", "哔哩哔哩", "B站", "renrenmi", "xigua", "m1905", "funshion"]
+}
