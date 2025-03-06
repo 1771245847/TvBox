@@ -64,7 +64,7 @@ TvBox Tv
 
 https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
-https://www.123865.com/s/PeHqVv-1LG5H
+https://www.123865.com/s/PeHqVv-AvX5H
 
 EasyBox
 
@@ -87,6 +87,10 @@ https://www.123865.com/s/PeHqVv-HZP5H
 https://yingshicang.lanzoul.com/b04dqa4ud
 
 密码: 3zcz
+
+TvBoxPro
+
+https://www.123865.com/s/PeHqVv-HvX5H
 
 影迷
 
