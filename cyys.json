@@ -9,54 +9,54 @@
       "key": "豆瓣",
       "name": "豆瓣",
       "type": 3,
-      "api": "../js/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "../js/douban.js"
+      "ext": "./js/douban.js"
     },
     {
       "key": "腾讯视频",
       "name": "腾讯视频",
       "type": 3,
-      "api": "../js/drpy2.min.js",
-      "ext": "../js/qq.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/qq.js"
     },
     {
       "key": "爱奇艺",
       "name": "爱奇艺",
       "type": 3,
-      "api": "../js/drpy2.min.js",
-      "ext": "../js/iqiyi.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/iqiyi.js"
     },
     {
       "key": "优酷",
       "name": "优酷",
       "type": 3,
-      "api": "../js/drpy2.min.js",
-      "ext": "../js/youku.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/youku.js"
     },
     {
       "key": "芒果tv",
       "name": "芒果tv",
       "type": 3,
-      "api": "../js/drpy2.min.js",
-      "ext": "../js/mgtv.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/mgtv.js"
     },
     {
       "key": "360影视",
       "name": "360影视",
       "type": 3,
-      "api": "../js/drpy2.min.js",
-      "ext": "../js/360.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/360.js"
     },
     {
       "key": "搜狗影视",
       "name": "搜狗影视",
       "type": 3,
-      "api": "../js/drpy2.min.js",
-      "ext": "../js/sogou.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/sogou.js"
     },
     {
       "key": "柚子资源",
