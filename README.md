@@ -14,8 +14,6 @@ TvBox 单仓
 
 https://jsd.cdn.zzko.cn/gh/1771245847/TvBox/tvbox.json
 
-https://raw.gitmirror.com/1771245847/TvBox/master/tvbox.json
-
 https://raw.githubusercontents.com/1771245847/TvBox/master/tvbox.json
 
 https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
@@ -23,8 +21,6 @@ https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/t
 TvBox 多仓
 
 https://jsd.cdn.zzko.cn/gh/1771245847/TvBox/tvbox.txt
-
-https://raw.gitmirror.com/1771245847/TvBox/master/tvbox.txt
 
 https://raw.githubusercontents.com/1771245847/TvBox/master/tvbox.txt
 
@@ -56,7 +52,7 @@ https://ghgo.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/uz.js
 
 # tBox 订阅源
 
-https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/tBox.json
+https://ghfast.top/https://raw.githubusercontent.com/1771245847/tBox/refs/heads/master/tBox.json
 
 # TvBox
 
