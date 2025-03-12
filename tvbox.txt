@@ -1,32 +1,32 @@
 {
   "残月影视": "1771245847",
-  "友情提醒": "接口完全免费，切勿付费购买 ",
+  "温馨提示": "本接口完全免费，切勿付费购买 ",
   "warningText": "残月影视 提醒您: 请勿用于商业用途，仅供学习交流 ",
     "urls": [
       {
-          "url": "https://raw.gitmirror.com/1771245847/TvBox/master/tvbox.json",
-          "name": "残月影视",
+          "url": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json",
+          "name": "残月线路",
           "time": "1771245847"
       },
       {
-          "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-          "name": "南风线路"
+          "url": "http://www.饭太硬.com/tv",
+          "name": "饭硬线路"
       },
       {
-          "url": "http://rihou.cc:88/荷城茶秀",
-          "name": "荷城茶秀"
+          "url": "http://xhztv.top/xhz",
+          "name": "聚盒线路"
       },
       {
-          "url": "http://肥猫.live",
-          "name": "肥猫线路"
+          "url": "http://meowtv.cn/tv",
+          "name": "喵影线路"
       },
       {
-          "url": "http://52bsj.vip:98/wuai",
-          "name": "吾爱线路"
+          "url": "http://ok321.top/ok",
+          "name": "Ok线路"
       },
       {
-          "url": "https://tvbox.cainisi.cf",
-          "name": "菜妮丝线路"
+          "url": "https://tv.xn--yhqu5zs87a.top",
+          "name": "菜妮线路"
       }
   ]
 }
