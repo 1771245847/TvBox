@@ -54,18 +54,11 @@
       "ext": "./js/360.js"
     },
     {
-      "key": "南瓜影视",
-      "name": "南瓜影视",
+      "key": "搜狗影视",
+      "name": "搜狗影视",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/Pumpkin.js"
-    },
-    {
-      "key": "荐片影视",
-      "name": "荐片影视",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/jianpian.js"
+      "ext": "./js/sogou.js"
     },
     {
       "key": "360资源",
@@ -111,26 +104,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-	},
-	{
-	  "key": "非凡资源",
-      "name": "非凡资源",
-      "type": 0,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-	},
-	{
-      "key": "Ma影视",
-      "name": "Ma影视",
-      "type": 1,
-      "api": "https://cc.appma.cc/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-	},
-	{
+    },
+    {
       "key": "Ok资源",
       "name": "Ok资源",
       "type": 0,
@@ -736,3 +711,4 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
