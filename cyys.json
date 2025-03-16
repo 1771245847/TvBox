@@ -93,17 +93,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-	},
-	{
-	  "key": "非凡资源",
+    },
+    {
+      "key": "非凡资源",
       "name": "非凡资源",
       "type": 0,
       "api": "http://ffzy5.tv/api.php/provide/vod/from/ffm3u8/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-	},
-	{
+    },
+    {
       "key": "忆梦影视",
       "name": "忆梦影视",
       "type": 1,
@@ -121,22 +121,12 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-	},
-	{
+    },
+    {
       "key": "Ok资源",
       "name": "Ok资源",
       "type": 0,
       "api": "https://api.okzy.org/api.php/provide/vod/from/okm3u8/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {      
-      "key": "Yp资源",
-      "name": "Yp资源",
-      "type": 1,
-      "api": "https://api.yparse.com/api/json",
-      "playUrl": "https://jx.yparse.com/index.php?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
