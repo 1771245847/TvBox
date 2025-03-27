@@ -4,7 +4,7 @@ https://github.com/CatVodTVOfficial/TVBoxOSC
 
 TvBox是一个开源项目，只要遵守协议，任何人均可通过项目生成APK，即官方仓库开源版，也就是TvBox原版, 目前开发者只专注于功能上的扩展和维护，它的功能也已经臻于完善
 
-# TvBox 订阅源 主力更新 订阅仓库:
+# TvBox 最新订阅源仓库（持续维护）
 
 https://bitbucket.org/1771245847/tvbox/
 
