@@ -70,11 +70,9 @@ https://1771245847.lanzouq.com/b033zvhlpc
 
 密码:123456
 
-TvBox Mobile Android
+MBox
 
 https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases
-
-MBox
 
 https://www.123865.com/s/PeHqVv-HZP5H
 
@@ -84,9 +82,7 @@ https://yingshicang.lanzoul.com/b04dqa4ud
 
 密码: 3zcz
 
-TvBoxPro
-
-https://www.123865.com/s/PeHqVv-HvX5H
+https://www.123865.com/s/PeHqVv-RMX5H
 
 影迷
 
