@@ -38,8 +38,8 @@
       "ext": "./js/youku.js"
     },
     {
-      "key": "芒果tv",
-      "name": "芒果tv",
+      "key": "芒果Tv",
+      "name": "芒果Tv",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/mgtv.js"
@@ -50,13 +50,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/360.js"
-    },
-    {
-      "key": "南瓜影视",
-      "name": "南瓜影视",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/Pumpkin.js"
     },
     {
       "key": "荐片影视",
