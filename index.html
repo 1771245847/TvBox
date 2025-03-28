@@ -1,0 +1,206 @@
+<!-- TvBox配置订阅源 由1771245847原创 尊重版权 请勿删除 -->
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TvBox 配置</title>
+<link rel="shortcut icon" href="favicon.ico" />
+<meta name="author"content="1771245847">
+<meta name="keywords" content="TvBox配置,TvBox订阅配置,TvBox订阅源配置">
+<meta name="description" content="TvBox配置,TvBox订阅配置,TvBox订阅源配置">
+<style>
+        body {
+            font-family: 'Microsoft YaHei', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #1e90ff, #00bfff, #87cefa);
+            background: linear-gradient(135deg, #1e90ff, #6a5acd, #9370db, #dda0dd);            
+            color: #fff;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding-top: 30px;
+        }
+        .header h1 {
+            color: #fff;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+        }
+        .container {
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+            max-width: 800px;
+            margin: 0 auto 40px;
+            color: #333;
+        }
+        .api-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .api-box {
+            background-color: #f0f8ff;
+            border: 1px solid #d0e3ff;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 25px;
+            position: relative;
+            width: 90%;
+            max-width: 600px;
+            text-align: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .api-url {
+            font-family: monospace;
+            word-break: break-all;
+            padding: 12px;
+            background-color: #fff;
+            border: 1px dashed #a5d8ff;
+            border-radius: 6px;
+            margin: 15px 0;
+            font-size: 15px;
+        }
+        .btn {
+            display: inline-block;
+            background-color: #1e90ff;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 6px;
+            margin: 10px 0;
+            border: none;
+            cursor: pointer;
+            font-size: 15px;
+            transition: all 0.3s;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .btn:hover {
+            background-color: #0077ff;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+        }
+        .step {
+            margin-bottom: 25px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        .step h3 {
+            color: #1e90ff;
+            text-align: center;
+            font-size: 22px;
+            margin-bottom: 20px;
+        }
+        .tips {
+            background-color: #e3f2fd;
+            border-left: 4px solid #1e90ff;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 0 6px 6px 0;
+        }
+        .success {
+            color: #28a745;
+            display: none;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+        ol {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .faq p {
+            margin-bottom: 15px;
+        }
+</style>
+</head>
+<body>
+    <div class="header">
+    <h1>TvBox 配置</h1>
+    <p>一键复制配置接口，轻松享受观影体验</p>
+    </div>
+    <div class="container">
+        <div class="step">
+            <h3>TvBox 配置订阅源</h3>
+            <div class="api-container">
+                <div class="api-box">
+                    <h4>TvBox 订阅源（推荐）</h4>
+                    <div class="api-url" id="api1">https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json</div>
+                    <button class="btn" onclick="copyToClipboard('api1')">点击复制</button>
+                    <div class="success" id="success1">✓ 已复制到剪贴板</div>
+                </div>
+                
+                <div class="api-box">
+                    <h4>Uz影视 订阅源（备用）</h4>
+                    <div class="api-url" id="api2">https://bitbucket.org/1771245847/tvbox/raw/main/uz.json</div>
+                    <button class="btn" onclick="copyToClipboard('api2')">点击复制</button>
+                    <div class="success" id="success2">✓ 已复制到剪贴板</div>
+                </div>
+                
+                <div class="api-box">
+                    <h4>tBox 订阅源（备用）</h4>
+                    <div class="api-url" id="api3">https://bitbucket.org/1771245847/tvbox/raw/main/tBox.json</div>
+                    <button class="btn" onclick="copyToClipboard('api3')">点击复制</button>
+                    <div class="success" id="success3">✓ 已复制到剪贴板</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="step">
+            <h3>使用方法</h3>
+            <ol>
+                <li>打开TvBox应用</li>
+                <li>进入 设置 → 配置地址</li>
+                <li>粘贴您复制的接口地址</li>
+                <li>点击"确定"保存</li>
+                <li>返回首页等待加载完成</li>
+            </ol>
+            
+            <div class="tips">
+                <p><strong>温馨提示：</strong>如果接口无法使用，请尝试其他备用接口</p>
+            </div>
+        </div>
+
+        <div class="step">
+            <h3>常见问题</h3>
+            <div class="faq">
+                <p><strong>Tags: 为什么加载后没有内容？</strong></p>
+                <p>可能是当前接口暂时不可用，请尝试切换线路接口或稍后再试</p>
+                
+                <p><strong>Tags: 如何更新接口？</strong></p>
+                <p>定期访问此页面获取最新接口地址</p>
+                
+                <p><strong>Tags: 可以自定义接口吗？</strong></p>
+                <p>可以，但需要有一定的技术知识，了解JSON格式配置</p>
+            </div>
+        </div>
+    </div>
+<script>
+        function copyToClipboard(id) {
+            const element = document.getElementById(id);
+            const text = element.innerText;
+            
+            navigator.clipboard.writeText(text).then(() => {
+                // 显示成功提示
+                const successElement = document.getElementById('success' + id.slice(3));
+                successElement.style.display = 'block';
+                
+                // 3秒后隐藏提示
+                setTimeout(() => {
+                    successElement.style.display = 'none';
+                }, 3000);
+            }).catch(err => {
+                console.error('复制失败: ', err);
+                alert('复制失败，请手动选择并复制文本');
+            });
+        }
+</script>
+
+</body>
+</html>
