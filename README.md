@@ -98,6 +98,10 @@ https://1771245847.lanzouq.com/b033zvh8od
 
 https://www.123865.com/s/PeHqVv-x0G5H
 
+影音壳子
+
+https://www.123865.com/s/PeHqVv-uZG5H
+
 # ZyPlayer
 
 https://github.com/Hiram-Wong/ZyPlayer/releases
