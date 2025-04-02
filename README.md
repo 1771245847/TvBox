@@ -70,6 +70,8 @@ https://1771245847.lanzouq.com/b033zvhlpc
 
 密码:123456
 
+https://www.123865.com/s/PeHqVv-hvX5H
+
 MBox
 
 https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases
