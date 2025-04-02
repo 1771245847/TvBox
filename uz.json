@@ -4,28 +4,44 @@
             "name": "免费分享，切勿付费购买",
             "codeID": "温馨提示: 本接口由【残月影视】维护, 请勿用于任何商业用途，仅供学习交流",
             "url": "以下来源于网络，如有冒犯请联系删除, 所有内容仅供学习使用，请勿用于违法用途",
-            "version": "2025/3/25",
+            "version": "2025/3/28",
             "type": 200
         }
         ],
   "panTools": [
-    {
+        {
             "name": "UC、夸克、阿里 网盘解析工具",
             "version": 15,
-            "remark": "解析网盘工具",
+            "remark": "网盘解析工具",
             "env": "UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称",
             "api": "https://ghfast.top/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/panTools/js/panTools.js",
             "type": 300
-    },
-    {
+        },
+        {
             "name": "夸克|123|189|UC 网盘解析工具",
             "version": 15,
             "remark": "网盘解析工具",
             "env": "UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频",
             "api": "https://ghfast.top/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/panTools/js/panTools2.js",
             "type": 300
-    }
-  ],
+        }
+        ],
+  "danMu": [
+        {
+            "name": "弹幕v10",
+            "version": 10,
+            "remark": "弹幕扩展",
+            "codeID": "HyplMQ00pLZipW1jy1e9qTsjZbznKjq2",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/danMu/js/danMu2.txt",
+            "type": 400
+        },
+        {
+            "name": "弹幕v1",
+            "version": 1,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/danMu/js/danMu.js",
+            "type": 400
+        }
+        ],
   "live": [
        
         {
@@ -35,10 +51,28 @@
             "remark": "残月直播"
         },
         {
-            "name": "YanG直播",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
+            "name": "TvLive2",
+            "url": "http://8.138.7.223/live.txt",
             "type": 10,
-            "remark": "https://github.com/YanG-1989"
+            "remark": "IPTV"
+        },
+        {
+            "name": "TvLive3",
+            "url": "https://live.hacks.tools/tv/iptv4.txt",
+            "type": 10,
+            "remark": "IPTV"
+        },
+        {
+            "name": "TvLive4",
+            "url": "https://live.hacks.tools/tv/iptv6.txt",
+            "type": 10,
+            "remark": "IPv6"
+        },
+        {        
+            "name": "TvLive5",
+            "url": "https://live.kilvn.com/iptv.m3u",
+            "type": 10,
+            "remark": "IPTV"
         }
         ],
   "vod": [
