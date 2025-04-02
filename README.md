@@ -40,7 +40,7 @@ clan://localhost/TvBox/test.json
 
 # ZyPLayer 订阅源
 
-使用说明: 设置 -> 基础配置 -> 数据管理 -> 一键配置 -> 此软件  -> 地址，然后填入订阅地址
+使用说明: 设置 -> 基础配置 -> 数据管理 -> 一键配置 -> 此软件  -> 地址 粘贴填入订阅地址
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/zyplayer.json
 
