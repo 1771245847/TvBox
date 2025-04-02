@@ -4,10 +4,28 @@
             "name": "免费分享，切勿付费购买",
             "codeID": "温馨提示: 本接口由【残月影视】维护, 请勿用于任何商业用途，仅供学习交流",
             "url": "以下来源于网络，如有冒犯请联系删除, 所有内容仅供学习使用，请勿用于违法用途",
-            "version": "2025/2/11",
+            "version": "2025/3/25",
             "type": 200
         }
         ],
+  "panTools": [
+    {
+            "name": "UC、夸克、阿里 网盘解析工具",
+            "version": 15,
+            "remark": "解析网盘工具",
+            "env": "UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/panTools/js/panTools.js",
+            "type": 300
+    },
+    {
+            "name": "夸克|123|189|UC 网盘解析工具",
+            "version": 15,
+            "remark": "网盘解析工具",
+            "env": "UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/panTools/js/panTools2.js",
+            "type": 300
+    }
+  ],
   "live": [
        
         {
@@ -17,44 +35,73 @@
             "remark": "残月直播"
         },
         {
-            "name": "肥羊咪咕",
-            "url": "https://www.freetv.top/migu.m3u",
+            "name": "YanG直播",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
             "type": 10,
             "remark": "https://github.com/YanG-1989"
         }
         ],
   "vod": [
         {
+            "name": "玩偶网盘",
+            "version": 3,
+            "webSite": "http://wogg.xxooo.cf",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/wobg.js",
+            "type": 101
+        },
+        {
+            "name": "下饭网盘",
+            "version": 1,
+            "webSite": "http://www.xn--ghqy10g1w0a.xyz/",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/xiafan.js",
+            "type": 101
+        },
+        {
+            "name": "至臻网盘",
+            "version": 3,
+            "webSite": "https://mihdr.top",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/zhizhen.js",
+            "type": 101
+        },
+        {
+            "name": "讴歌网盘",
+            "version": 3,
+            "webSite": "https://woog.nxog.eu.org",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/ouge.js",
+            "type": 101
+        },
+        {
             "api": "https://img.smdyw.top/api.php/provide/vod",
             "name": "神马影视"
+        },
+        {
+            "api": "https://api.ukuapi88.com/api.php/provide/vod/from/ukm3u8/at/json",
+            "name": "U酷资源"
+        },
+        {
+            "api": "https://tyyszyapi.com/api.php/provide/vod/",
+            "name": "天涯资源"
         },
         {
             "api": "https://cjhwba.com/api.php/provide/vod/",
             "name": "华为资源"
         },
         {
-            "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml",
-            "name": "非凡资源"
+            "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/json",
+            "name": "非凡资源",
+            "type": 1
         },
         {
-            "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml",
+            "api": "https://cj.rycjapi.com/api.php/provide/vod/",
             "name": "如意资源"
         },
         {
-            "api": "https://360zy.com/api.php/provide/vod/from/360m3u8/at/xml",
+            "api": "https://360zy.com/api.php/provide/vod/from/360m3u8/at/json",
             "name": "360资源"
         },
         {
             "api": "https://www.mdzyapi.com/api.php/provide/vod/",
             "name": "魔都资源"
-        },
-        {
-            "api": "https://okzyw9.com/api.php/provide/vod/from/okm3u8/at/xml",
-            "name": "OK资源"
-        },
-        {
-            "api": "https://zpsps.com/api.php/provide/vod/?ac=list",
-            "name": "宝片影视"
         },
         {
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
@@ -65,7 +112,7 @@
             "name": "牛牛资源"
         },
         {
-            "api": "https://cj.yayazy.net/api.php/provide/vod/from/yym3u8/at/xml",
+            "api": "https://cj.yayazy.net/api.php/provide/vod/from/yym3u8/at/json",
             "name": "丫丫资源"
         },
         {
@@ -77,17 +124,20 @@
             "name": "HeiR资源"
         },
         {
-            "name": "天天影视",
-            "api": "https://www.ghproxy.cc/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/tiantian.js",
-            "instance": "tiantian20240629",
-            "webSite": "http://op.ysdqjs.cn",
-            "remark": "",
-            "version": "2",
-            "type": 100
+            "api": "https://okzyw9.com/api.php/provide/vod/from/okm3u8/",
+            "name": "OK资源",
+            "type": 0
         },
         {
-            "name": "金牌影院",
-            "api": "https://www.ghproxy.cc/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/jpyy.js",
+            "name": "厂长影视",
+            "version": 2,
+            "webSite": "https://www.czzy77.com",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/changZhang20240614.js",
+            "type": 101
+        },
+        {
+            "name": "金牌影视",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/jpyy.js",
             "instance": "jpyy20240716",
             "webSite": "https://www.ghw9zwp5.com",
             "remark": "",
@@ -96,30 +146,30 @@
         },
         {
             "name": "瓜子影视",
-            "api": "https://www.ghproxy.cc/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/gzapp.js",
+            "version": 2,
+            "remark": "v1.6.53 及以上版本",
+            "webSite": "https://api.9cec79d.com",
             "codeID": "ra5Z3wtXKshzSMK2",
             "instance": "gzapp20241001",
-            "webSite": "https://api.9cec79d.com",
-            "remark": "",
-            "version": "2",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/gzapp.txt",
             "type": 100
         },
         {
-            "name": "奇优影院",
-            "api": "https://www.ghproxy.cc/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/qiyou.js",
+            "name": "奇优影视",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/qiyou.js",
             "instance": "qiyou20240904",
-            "webSite": "http://www.qiyoudy4.com",
+            "webSite": "http://www.qiyoudy5.com",
             "remark": "",
             "version": "2",
             "type": 100
         },
         {
-            "name": "哔嘀影视",
-            "api": "https://www.ghproxy.cc/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/biliys.js",
-            "webSite": "https://www.xlys01.com",
-            "remark": "1.6.41 及以上版本可用",
-            "version": "1",
-            "type": 101
+            "name": "4k影视",
+            "version": 2,
+            "webSite": "https://4k-av.com",
+            "instance": "www4kav20240705",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/4kav.js",
+            "type": 100
         }
         
     ]
