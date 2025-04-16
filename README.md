@@ -48,6 +48,8 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/ma
 
 使用说明: 设置 -> 数据管理 -> 订阅 -> + -> 输入链接 -> 确定
 
+v1.6.55 及以上版本
+
 https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/uz.zip
 
 # tBox 订阅源
