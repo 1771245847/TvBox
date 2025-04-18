@@ -6,7 +6,7 @@ TvBox是一个开源项目，只要遵守协议，任何人均可通过项目生
 
 # TvBox 最新订阅源仓库（持续维护）
 
-Bitbucket:  https://bitbucket.org/1771245847/tvbox/
+https://bitbucket.org/1771245847/tvbox/
 
 # TvBox 订阅源
 
