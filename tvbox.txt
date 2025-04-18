@@ -1,7 +1,7 @@
 {
   "残月影视": "1771245847",
-  "温馨提示": "本接口完全免费，切勿付费购买 ",
-  "warningText": "残月影视 提醒您: 请勿用于商业用途，仅供学习交流 ",
+  "温馨提示": "本接口完全免费 切勿付费购买 ",
+  "warningText": "残月影视: 温馨提示: 请勿用于商业用途，仅供学习交流 ",
     "urls": [
       {
           "url": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json",
@@ -22,7 +22,7 @@
       },
       {
           "url": "http://ok321.top/ok",
-          "name": "Ok线路"
+          "name": "OK线路"
       },
       {
           "url": "https://tv.xn--yhqu5zs87a.top",
