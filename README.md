@@ -14,15 +14,11 @@ TvBox 单仓
 
 https://jsd.cdn.zzko.cn/gh/1771245847/TvBox/tvbox.json
 
-https://raw.githubusercontents.com/1771245847/TvBox/master/tvbox.json
-
 https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
 
 TvBox 多仓
 
 https://jsd.cdn.zzko.cn/gh/1771245847/TvBox/tvbox.txt
-
-https://raw.githubusercontents.com/1771245847/TvBox/master/tvbox.txt
 
 https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
 
@@ -34,7 +30,7 @@ TvBox支持网络接口和本地文件，为了使用方便，通常大家是直
 
 TvBox支持本地离线配置，将自定义链接下载到存储卡，记录路径，复制json的路径地址，填入配置接口
 
-例如示例：
+示例：
 
 clan://localhost/TvBox/test.json
 
@@ -48,7 +44,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/ma
 
 使用说明: 设置 -> 数据管理 -> 订阅 -> + -> 输入链接 -> 确定
 
-https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/uz.zip
+https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/uzys.zip
 
 # tBox 订阅源
 
