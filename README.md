@@ -14,6 +14,8 @@ TvBox 单仓
 
 https://jsd.cdn.zzko.cn/gh/1771245847/TvBox/tvbox.json
 
+https://raw.gitmirror.com/1771245847/TvBox/master/tvbox.json
+
 https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
 
 TvBox 多仓
