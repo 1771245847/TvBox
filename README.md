@@ -116,6 +116,10 @@ https://www.123865.com/s/PeHqVv-R1P5H
 
 # Uz影视
 
+https://1771245847.lanzouq.com/b0340iffcj
+
+密码:123456
+
 https://www.123865.com/s/PeHqVv-MBP5H
 
 https://github.com/YYDS678/uzVideo
