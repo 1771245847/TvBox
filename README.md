@@ -146,9 +146,9 @@ https://www.123865.com/s/PeHqVv-L5P5H
 
 https://github.com/gstory0404/Cinetry
 
-https://gstory.lanzoub.com/b00eg9vr4d
+https://1771245847.lanzouq.com/b0340zw4za
 
-密码: gmbh
+密码:666
 
 # 小猫影视
 
