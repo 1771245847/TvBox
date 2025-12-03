@@ -104,7 +104,9 @@ https://www.123pan.com/s/PeHqVv-daP5H
 
 宝盒
 
-https://1771245847.lanzouq.com/b033zvh8od   密码: 123456
+https://1771245847.lanzouq.com/b033zvh8od
+
+密码: 123456
 
 https://www.123865.com/s/PeHqVv-x0G5H
 
@@ -152,7 +154,9 @@ https://gstory.lanzoub.com/b00eg9vr4d
 
 https://github.com/waifu-project/movie/releases
 
-https://d1y.lanzouu.com/b00od5sx8d   密码: 666
+https://d1y.lanzouu.com/b00od5sx8d
+
+密码: 666
 
 https://www.123865.com/s/PeHqVv-VCW5H
 
