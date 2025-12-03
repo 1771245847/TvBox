@@ -104,9 +104,7 @@ https://www.123pan.com/s/PeHqVv-daP5H
 
 宝盒
 
-https://1771245847.lanzouq.com/b033zvh8od
-
-密码: 123456
+https://1771245847.lanzouq.com/b033zvh8od   密码: 123456
 
 https://www.123865.com/s/PeHqVv-x0G5H
 
@@ -142,7 +140,7 @@ https://www.123865.com/s/53qDVv-bvBXv
 
 https://www.123865.com/s/PeHqVv-L5P5H
 
-Cinetry
+# Cinetry
 
 https://github.com/gstory0404/Cinetry
 
@@ -150,11 +148,11 @@ https://gstory.lanzoub.com/b00eg9vr4d
 
 密码: gmbh
 
-小猫影视
+# 小猫影视
 
 https://github.com/waifu-project/movie/releases
 
-https://d1y.lanzouu.com/b00od5sx8d  密码: 666
+https://d1y.lanzouu.com/b00od5sx8d   密码: 666
 
 https://www.123865.com/s/PeHqVv-VCW5H
 
