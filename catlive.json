@@ -1,0 +1,20 @@
+{
+  "lives": [
+    {
+      "name": "TvLive",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
+      "type": 0
+    },
+    {
+      "name": "TvLive2",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx_lite.m3u",
+      "type": 0
+    },
+    {
+      "name": "TvLive3",
+      "url": "https://live.zbds.top/tv/iptv4.txt",
+      "type": 0
+    }
+  ]
+}
+

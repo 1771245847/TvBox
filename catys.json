@@ -1,0 +1,58 @@
+[
+  {
+    "id": "niuniuziyuan",
+    "name": "牛牛影视",
+    "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
+    "nsfw": false,
+    "logo": "",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "瀑布影视",
+    "name": "瀑布影视",
+    "api": "https://www.pbpan.com/api.php/provide/vod/from/pbm3u8/at/xml/",
+    "logo": "",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "茅台影视",
+    "name": "茅台影视",
+    "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
+    "logo": "",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "猫眼影视",
+    "name": "猫眼影视",
+    "api": "https://api.maoyanapi.top/api.php/provide/vod/from/mym3u8/at/xml/",
+    "logo": "",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "非凡影视",
+    "name": "非凡影视",
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
+    "logo": "",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  }
+]
+
