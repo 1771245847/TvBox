@@ -54,6 +54,16 @@ https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/uzy
 
 https://ghfast.top/https://raw.githubusercontent.com/1771245847/tBox/refs/heads/master/tBox.json
 
+# Cinetry 订阅源
+
+https://ghfast.top/https:/raw.githubusercontent.com/1771245847/TvBox/master/CinetryYs.txt
+
+# 小猫影视 订阅源
+
+https://ghfast.top/https:/raw.githubusercontent.com/1771245847/TvBox/master/catys.json
+
+https://ghfast.top/https:/raw.githubusercontent.com/1771245847/TvBox/master/catlive.json
+
 # TvBox
 
 TvBox Tv
@@ -131,6 +141,22 @@ https://www.123865.com/s/53qDVv-bvBXv
 # tBox
 
 https://www.123865.com/s/PeHqVv-L5P5H
+
+Cinetry
+
+https://github.com/gstory0404/Cinetry
+
+https://gstory.lanzoub.com/b00eg9vr4d
+
+密码: gmbh
+
+小猫影视
+
+https://github.com/waifu-project/movie/releases
+
+https://d1y.lanzouu.com/b00od5sx8d  密码: 666
+
+https://www.123865.com/s/PeHqVv-VCW5H
 
 ## 💰 赞赏支持
 <p>
