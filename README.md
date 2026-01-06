@@ -46,8 +46,6 @@ https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/zyp
 
 # Uz影视 订阅源
 
-使用说明: 设置 -> 数据管理 -> 订阅 -> + -> 输入链接 -> 确定
-
 https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/uzys.zip
 
 # tBox 订阅源
@@ -139,6 +137,10 @@ TimeFlix
 https://www.123865.com/s/PeHqVv-V5P5H
 
 # ZyPlayer
+
+https://1771245847.lanzouq.com/b033zpwi2f
+
+密码:123456
 
 https://github.com/Hiram-Wong/ZyPlayer/releases
 
