@@ -42,7 +42,7 @@ clan://localhost/TvBox/test.json
 
 使用说明: 设置 -> 基础配置 -> 数据管理 -> 一键配置 -> 粘贴填入订阅源地址
 
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/zyplayer.json
+https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/zyplayer.json
 
 # Uz影视 订阅源
 
@@ -72,6 +72,18 @@ https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
 https://www.123865.com/s/PeHqVv-AvX5H
 
+FongMi
+
+https://1771245847.lanzouq.com/b03412zvra
+
+密码:123456
+
+OK影视
+
+https://1771245847.lanzouq.com/b0341305jc
+
+密码:123456
+
 EasyBox
 
 https://www.easybox.pro/
@@ -89,6 +101,10 @@ https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases
 https://www.123865.com/s/PeHqVv-HZP5H
 
 影视仓
+
+https://1771245847.lanzouq.com/b0341308pg
+
+密码:123456
 
 https://yingshicang.lanzoul.com/b04dqa4ud
 
@@ -112,6 +128,10 @@ https://www.123865.com/s/PeHqVv-x0G5H
 
 影音壳子
 
+https://1771245847.lanzouq.com/b03413093a
+
+密码:123456
+
 https://www.123865.com/s/PeHqVv-uZG5H
 
 TimeFlix
@@ -133,10 +153,6 @@ https://1771245847.lanzouq.com/b0340iffcj
 https://www.123865.com/s/PeHqVv-MBP5H
 
 https://github.com/YYDS678/uzVideo
-
-https://www.123865.com/s/53qDVv-bvBXv
-
-密码: uznb
 
 # tBox
 
