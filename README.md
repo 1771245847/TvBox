@@ -162,19 +162,23 @@ https://www.123865.com/s/PeHqVv-L5P5H
 
 # Cinetry
 
-https://github.com/gstory0404/Cinetry
+https://github.com/gstory0404/Cinetry/releases
+
+https://gstory.lanzoub.com/b00eg9vr3c
+
+密码:5o54
 
 https://1771245847.lanzouq.com/b0340zw4za
 
-密码:666
+密码:123456
 
 # 小猫影视
 
 https://github.com/waifu-project/movie/releases
 
-https://d1y.lanzouu.com/b00od5sx8d
+https://1771245847.lanzouq.com/b0341347ed
 
-密码: 666
+密码:123456
 
 https://www.123865.com/s/PeHqVv-VCW5H
 
