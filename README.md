@@ -52,10 +52,6 @@ https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/uzy
 
 https://ghfast.top/https://raw.githubusercontent.com/1771245847/tBox/refs/heads/master/tBox.json
 
-# Cinetry 订阅源
-
-https://ghfast.top/https:/raw.githubusercontent.com/1771245847/TvBox/master/CinetryYs.txt
-
 # 小猫影视 订阅源
 
 https://ghfast.top/https:/raw.githubusercontent.com/1771245847/TvBox/master/catys.json
@@ -163,10 +159,6 @@ https://www.123865.com/s/PeHqVv-L5P5H
 # Cinetry
 
 https://github.com/gstory0404/Cinetry/releases
-
-https://gstory.lanzoub.com/b00eg9vr3c
-
-密码:5o54
 
 https://1771245847.lanzouq.com/b0340zw4za
 
