@@ -62,7 +62,7 @@ https://ghfast.top/https:/raw.githubusercontent.com/1771245847/TvBox/master/catl
 
 TvBox Tv
 
-https://github.com/o0HalfLife0o/TVBoxOSC/releases
+https://github.com/j4Uq/TVBoxOSC/releases
 
 https://www.123865.com/s/PeHqVv-AvX5H
 
