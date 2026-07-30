@@ -110,14 +110,6 @@ https://1771245847.lanzouq.com/b0340iffcj
 
 密码:123456
 
-# Cinetry
-
-https://github.com/gstory0404/Cinetry/releases
-
-https://1771245847.lanzouq.com/b0340zw4za
-
-密码:123456
-
 # 小猫影视
 
 https://github.com/waifu-project/movie/releases
