@@ -1747,7 +1747,13 @@
 	     *     var hash = CryptoJS.MD5('message');
 	     *     var hash = CryptoJS.MD5(wordArray);
 	     */
-	    C.MD5 = Hasher._createHelper(MD5);
+	    C.MD5 = (function() {
+        var _md5fn = Hasher._createHelper(MD5);
+        return function() {
+            console.warn('CryptoJS.MD5: MD5 is cryptographically broken and must not be used for security-sensitive purposes (passwords, tokens, integrity checks). Use CryptoJS.SHA256 instead.');
+            return _md5fn.apply(this, arguments);
+        };
+    })();
 
 	    /**
 	     * Shortcut function to the HMAC's object interface.
