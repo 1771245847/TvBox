@@ -54,13 +54,31 @@ https://github.com/j4Uq/TVBoxOSC/releases
 
 FongMi
 
+https://github.com/FongMi/Release
+
 https://1771245847.lanzouq.com/b03412zvra
 
 密码:123456
 
 OK影视
 
+https://github.com/lystv/fmapp/releases
+
 https://1771245847.lanzouq.com/b0341305jc
+
+密码:123456
+
+Fish
+
+https://github.com/fish2018/webhtv/releases
+
+默影视
+
+https://github.com/Silent1566/webhtv/releases
+
+XMBOX
+
+https://1771245847.lanzouq.com/b03418o5fc
 
 密码:123456
 
@@ -73,6 +91,10 @@ https://1771245847.lanzouq.com/b033zvhlpc
 MBox
 
 https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases
+
+NewBox
+
+https://1771245847.lanzouq.com/iRGLs3wsxolc
 
 影视仓
 
@@ -91,6 +113,10 @@ https://1771245847.lanzouq.com/b033zvh8od
 https://1771245847.lanzouq.com/b03413093a
 
 密码:123456
+
+PeekPro
+
+https://1771245847.lanzouq.com/iSg9L3wsy6ih
 
 # ZyPlayer
 
