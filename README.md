@@ -56,7 +56,7 @@ FongMi
 
 https://github.com/FongMi/Release
 
-https://1771245847.lanzouq.com/b03412zvra
+https://1771245847.lanzouq.com/b0341ld7md
 
 密码:123456
 
@@ -64,7 +64,7 @@ OK影视
 
 https://github.com/lystv/fmapp/releases
 
-https://1771245847.lanzouq.com/b0341305jc
+https://1771245847.lanzouq.com/b0341ld7vc
 
 密码:123456
 
@@ -78,13 +78,19 @@ https://github.com/Silent1566/webhtv/releases
 
 XMBOX
 
-https://1771245847.lanzouq.com/b03418o5fc
+https://1771245847.lanzouq.com/b0341ldbni
+
+密码:123456
+
+影视+
+
+https://1771245847.lanzouq.com/b0341ldfsh
 
 密码:123456
 
 EasyBox
 
-https://1771245847.lanzouq.com/b033zvhlpc
+https://1771245847.lanzouq.com/b0341ldava
 
 密码:123456
 
@@ -98,19 +104,19 @@ https://1771245847.lanzouq.com/iRGLs3wsxolc
 
 影视仓
 
-https://1771245847.lanzouq.com/b0341308pg
+https://1771245847.lanzouq.com/b0341ld9fi
 
 密码:123456
 
 宝盒
 
-https://1771245847.lanzouq.com/b033zvh8od
+https://1771245847.lanzouq.com/b0341ldb9e
 
-密码: 123456
+密码:123456
 
 影音壳子
 
-https://1771245847.lanzouq.com/b03413093a
+https://1771245847.lanzouq.com/b0341ldc2d
 
 密码:123456
 
