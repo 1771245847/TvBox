@@ -52,6 +52,12 @@ TvBox Tv
 
 https://github.com/j4Uq/TVBoxOSC/releases
 
+俊于Q版
+
+https://1771245847.lanzouq.com/b0341loemb
+
+密码:123456
+
 FongMi
 
 https://github.com/FongMi/Release
@@ -85,6 +91,18 @@ https://1771245847.lanzouq.com/b0341ldbni
 影视+
 
 https://1771245847.lanzouq.com/b0341ldfsh
+
+密码:123456
+
+新影视
+
+https://1771245847.lanzouq.com/b0341m4lyb
+
+密码:123456
+
+星落影视
+
+https://1771245847.lanzouq.com/b0341m4m0d
 
 密码:123456
 
