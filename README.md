@@ -26,6 +26,12 @@ TvBox支持本地离线配置，将自定义链接下载到存储卡，记录路
 
 clan://localhost/TvBox/test.json
 
+# TvBox 加密配置
+
+编码格式说明：8位随机字符 + ** + Base64
+
+https://base64.is/zh-Hans
+
 # ZyPLayer 订阅源
 
 使用说明: 设置 -> 基础配置 -> 数据管理 -> 一键配置 -> 粘贴填入订阅源地址
@@ -57,6 +63,8 @@ https://github.com/j4Uq/TVBoxOSC/releases
 https://1771245847.lanzouq.com/b0341loemb
 
 密码:123456
+
+https://share.feijipan.com/s/gy8Ajjjy
 
 FongMi
 
