@@ -66,6 +66,8 @@ https://1771245847.lanzouq.com/b0341ld7md
 
 密码:123456
 
+https://share.feijipan.com/s/nT5vHKaw
+
 OK影视
 
 https://github.com/lystv/fmapp/releases
@@ -120,6 +122,8 @@ NewBox
 
 https://1771245847.lanzouq.com/iRGLs3wsxolc
 
+https://share.feijipan.com/s/gceRvUqZ
+
 影视仓
 
 https://1771245847.lanzouq.com/b0341ld9fi
@@ -131,6 +135,10 @@ https://1771245847.lanzouq.com/b0341ld9fi
 https://1771245847.lanzouq.com/b0341ldb9e
 
 密码:123456
+
+影迷
+
+https://1771245847.lanzouq.com/ikbii464pr8f
 
 影音壳子
 
