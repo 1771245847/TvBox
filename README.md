@@ -92,6 +92,10 @@ https://github.com/fish2018/webhtv/releases
 
 https://github.com/Silent1566/webhtv/releases
 
+MovieCat
+
+https://1771245847.lanzouq.com/iv3aY3f667ha
+
 XMBOX
 
 https://1771245847.lanzouq.com/b0341ldbni
@@ -160,9 +164,9 @@ https://github.com/mlabalabala/box
 
 https://1771245847.lanzouq.com/icDzE42i2lfi
 
-PeekPro
+PlutoPlayer
 
-https://1771245847.lanzouq.com/iSg9L3wsy6ih
+https://1771245847.lanzouq.com/i2w3E42qr54j
 
 # ZyPlayer
 
