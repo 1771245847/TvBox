@@ -1,8 +1,10 @@
 # TvBox
 
+TvBox原版
+
 https://github.com/CatVodTVOfficial/TVBoxOSC
 
-TvBox是一个开源项目，只要遵守协议，任何人均可通过项目生成APK，即官方仓库开源版 TvBox原版
+TvBox是一个开源项目，只要遵守协议，任何人均可通过项目生成APK，即官方仓库开源版
 
 # TvBox 订阅源
 
@@ -20,7 +22,7 @@ TvBox支持网络接口和本地文件，为了使用方便，通常大家是直
 
 # TvBox 离线配置
 
-TvBox支持本地离线配置，将自定义链接下载到存储卡，记录路径，复制json的路径地址，填入配置接口
+TvBox支持本地离线配置
 
 配置示例：
 
