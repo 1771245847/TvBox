@@ -60,6 +60,8 @@ https://github.com/j4Uq/TVBoxOSC/releases
 
 俊于Q版
 
+https://github.com/q215613905/TVBoxOSCRelease/releases
+
 https://1771245847.lanzouq.com/b0341loemb
 
 密码:123456
@@ -135,6 +137,12 @@ NewBox
 https://1771245847.lanzouq.com/iRGLs3wsxolc
 
 https://share.feijipan.com/s/gceRvUqZ
+
+AVBox
+
+https://github.com/XiaochangXu/AVBox/releases
+
+https://share.feijipan.com/s/OJ9v8DaJ
 
 影视仓
 
