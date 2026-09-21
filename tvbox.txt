@@ -1,7 +1,7 @@
 {
   "残月影视": "1771245847",
-  "温馨提示": "本接口完全免费 切勿付费购买 ",
-  "warningText": "残月影视: 温馨提示: 请勿用于商业用途，仅供学习交流 ",
+  "温馨提示": "本接口完全免费 切勿付费购买",
+  "warningText": "残月影视: 温馨提示: 请勿用于商业用途 仅供学习交流",
     "urls": [
       {
           "url": "https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
@@ -9,12 +9,12 @@
           "time": "20260921"
       },
       {
-          "url": "http://www.饭太硬.com/tv",
-          "name": "饭硬线路"
+          "url": "http://www.英格里希嗷呜.top/tv",
+          "name": "嗷呜线路"
       },
       {
-          "url": "https://tv.xn--yhqu5zs87a.top",
-          "name": "菜妮线路"
+          "url": "http://tvbox.王二小放牛娃.top",
+          "name": "王二小线路"
       }
   ]
 }
