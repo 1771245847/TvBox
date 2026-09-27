@@ -90,7 +90,7 @@ https://1771245847.lanzouq.com/b0341ld7vc
 
 Fish
 
-https://github.com/fish2018/webhtv/releases
+https://github.com/webhtv/webhtv/releases
 
 默影视
 
