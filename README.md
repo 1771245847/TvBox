@@ -52,8 +52,6 @@ https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/tBox/refs/head
 
 https://gh-proxy.com/https:/raw.githubusercontent.com/1771245847/TvBox/master/catys.json
 
-https://gh-proxy.com/https:/raw.githubusercontent.com/1771245847/TvBox/master/catlive.json
-
 # TvBox
 
 TvBox Tv
