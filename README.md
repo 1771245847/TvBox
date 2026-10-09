@@ -4,7 +4,7 @@ TvBox原版
 
 https://github.com/CatVodTVOfficial/TVBoxOSC
 
-TvBox是一个开源项目，只要遵守协议，任何人均可通过项目生成APK，即官方仓库开源版
+TvBox是一个开源项目 只要遵守协议 任何人均可通过项目生成APK 即官方仓库开源版
 
 # TvBox 订阅源
 
