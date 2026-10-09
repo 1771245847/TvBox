@@ -58,6 +58,10 @@ TvBox Tv
 
 https://github.com/j4Uq/TVBoxOSC/releases
 
+CatBox
+
+https://1771245847.lanzouq.com/ihnVt4ay710h
+
 俊于Q版
 
 https://github.com/q215613905/TVBoxOSCRelease/releases
