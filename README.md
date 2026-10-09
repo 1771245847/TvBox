@@ -202,9 +202,9 @@ https://1771245847.lanzouq.com/b0341347ed
 
 密码:123456
 
-# 💰 赞赏支持
+# 💰 赞赏
 <p>
-<img width="200" height="200" src="https://pica.zhimg.com/v2-5e3b875bdd86bec3edfee61813d4f396_1440w.jpg">
+<img width="200" height="200" src="https://gitlab.com/1771245847/gitlab.vip/raw/master/wx.png">
 </p>
 
 # 免责声明
