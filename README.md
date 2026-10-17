@@ -44,10 +44,6 @@ https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/z
 
 https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/uzys.zip
 
-# tBox 订阅源
-
-https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/tBox/refs/heads/master/tBox.json
-
 # 小猫影视 订阅源
 
 https://gh-proxy.com/https:/raw.githubusercontent.com/1771245847/TvBox/master/catys.json
