@@ -184,6 +184,10 @@ PlutoPlayer
 
 https://1771245847.lanzouq.com/i2w3E42qr54j
 
+DsPlayer
+
+https://share.feijipan.com/s/bPw6qJEN
+
 # ZyPlayer
 
 https://1771245847.lanzouq.com/b033zpwi2f
