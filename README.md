@@ -44,10 +44,6 @@ https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/z
 
 https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/uzys.zip
 
-# 小猫影视 订阅源
-
-https://gh-proxy.com/https:/raw.githubusercontent.com/1771245847/TvBox/master/catys.json
-
 # TvBox
 
 TvBox Tv
@@ -195,14 +191,6 @@ https://github.com/Hiram-Wong/ZyPlayer/releases
 # Uz影视
 
 https://1771245847.lanzouq.com/b0340iffcj
-
-密码:123456
-
-# 小猫影视
-
-https://github.com/waifu-project/movie/releases
-
-https://1771245847.lanzouq.com/b0341347ed
 
 密码:123456
 
